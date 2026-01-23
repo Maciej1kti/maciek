@@ -46,6 +46,49 @@ Planowane "AI Personas":
 - Jak najlepiej strukturować private reflections w `mems/`?
 - Czy skills mogą mieć state/context między wywołaniami?
 
+### 🧠 AI Mentor Skills - Implementation Complete!
+
+**Utworzone skills jako AI personas:**
+1. **business-mentor** 📈
+   - Business strategy, growth, SaaS expertise
+   - Framework-driven approach (Business Model Canvas, etc.)
+   - Action-oriented recommendations
+
+2. **psychology-coach** 🧠💙
+   - Personal development, emotional wellbeing
+   - Empatyczne słuchanie, psychoedukacja
+   - Praktyczne narzędzia (CBT, mindfulness, journaling)
+   - Prywatność: rozmawiaj swobodnie, local-only
+
+3. **research-agent** 🔍
+   - Deep research w internecie (WebSearch + WebFetch)
+   - Fact-checking, multi-source verification
+   - Always cite sources
+   - Current date aware: 2026-01-23
+
+4. **up** 🚀 (Meta-skill!)
+   - Auto-update DEVLOG.md po zmianach
+   - Git commit + push workflow
+   - Safety checks (no secrets, no binaries)
+   - Usage: `/up` na koniec każdej sesji
+
+### 💡 New Insights
+
+**Skills + Agents = Powerful Combo:**
+- Skills mogą spawować agentów (`context: fork` + `agent: type`)
+- Agenci mogą używać skills jako instrukcji
+- Parallel execution: multiple skills → multiple agents równolegle
+- Real-world workflow: research-agent (gather data) → business-mentor (analyze) → up (document)
+
+**Answered Questions:**
+- ✅ Skills mogą łączyć się w pipeline - sequential skill calls
+- ✅ Agenci MOGĄ być egzekutorami skills - `context: fork` in frontmatter
+- ✅ Skills sync między kompami przez git (project skills in `.claude/skills/`)
+
+**Meta-observation:**
+- `/up` skill sam siebie dokumentuje - inception! 🤯
+- Skills jako "documentation as code" - instrukcje + automation w jednym
+
 ---
 
 ## Template dla przyszłych wpisów:

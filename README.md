@@ -24,17 +24,26 @@ To repozytorium to:
 Skills w `.claude/skills/` to różne "wcielenia" Claude'a:
 
 ### Dostępni Mentorzy:
-- **business-mentor** - Mistrz biznesu, strategia, growth, business model design
-- **psychology-coach** - Psycholog do prywatnych rozmów, rozwój osobisty
-- **research-agent** - Researcher szukający danych w necie, fact-checking
-- **explain-architecture** - Wyjaśnianie architektury projektów technicznych
+
+**AI Personas** (mentorzy i eksperci):
+- **business-mentor** 📈 - Strategia biznesowa, growth, SaaS, modele biznesowe
+- **psychology-coach** 🧠 - Rozwój osobisty, emocje, wellbeing (private conversations)
+- **research-agent** 🔍 - Deep research w internecie, fact-checking, web search
+- **explain-architecture** 🏗️ - Wyjaśnianie architektury projektów technicznych
+
+**Utility Skills** (automatyzacja workflow):
+- **up** 🚀 - Auto-update dokumentacji + git commit/push (użyj na koniec sesji!)
 
 ### Jak używać:
 ```bash
-# Bezpośrednie wywołanie:
+# AI Mentorzy (bezpośrednie wywołanie lub automatyczne):
 /business-mentor Pomóż mi z modelem biznesowym dla SaaS
 /psychology-coach Czuję się przytłoczony zadaniami
 /research-agent Znajdź najnowsze dane o rynku AI
+
+# Workflow automation:
+/up                          # Update docs + commit + push (koniec sesji)
+/up Added new business plan  # Update z custom message
 
 # Automatyczne: Claude wybiera odpowiedniego mentora na podstawie kontekstu
 ```
@@ -42,9 +51,10 @@ Skills w `.claude/skills/` to różne "wcielenia" Claude'a:
 ## 🌊 Workflow
 
 1. **Ideas** → Zapisuję pomysły i notatki
-2. **Plans** → Rozwijam wybrane pomysły w plany
-3. **Mems** → Reflektuję nad wykonanymi działaniami
+2. **Plans** → Rozwijam wybrane pomysły w plany (z pomocą `/business-mentor`, `/research-agent`)
+3. **Mems** → Reflektuję nad wykonanymi działaniami (z pomocą `/psychology-coach`)
 4. **Skills** → Używam AI mentorów do wsparcia w każdym kroku
+5. **`/up`** → Na koniec sesji: auto-update DEVLOG + commit + push (sync between computers)
 
 ## 📝 Devlog
 
