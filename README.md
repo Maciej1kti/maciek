@@ -32,7 +32,7 @@ Skills w `.claude/skills/` to różne "wcielenia" Claude'a:
 - **explain-architecture** 🏗️ - Wyjaśnianie architektury projektów technicznych
 
 **Utility Skills** (automatyzacja workflow):
-- **up** 🚀 - Auto-update dokumentacji + git commit/push (użyj na koniec sesji!)
+- **pp** 🚀 - Auto-update dokumentacji + git commit/push (użyj na koniec sesji!)
 
 ### Jak używać:
 ```bash
@@ -42,8 +42,8 @@ Skills w `.claude/skills/` to różne "wcielenia" Claude'a:
 /research-agent Znajdź najnowsze dane o rynku AI
 
 # Workflow automation:
-/up                          # Update docs + commit + push (koniec sesji)
-/up Added new business plan  # Update z custom message
+/pp                          # Update docs + commit + push (koniec sesji)
+/pp Added new business plan  # Update z custom message
 
 # Automatyczne: Claude wybiera odpowiedniego mentora na podstawie kontekstu
 ```
@@ -54,7 +54,7 @@ Skills w `.claude/skills/` to różne "wcielenia" Claude'a:
 2. **Plans** → Rozwijam wybrane pomysły w plany (z pomocą `/business-mentor`, `/research-agent`)
 3. **Mems** → Reflektuję nad wykonanymi działaniami (z pomocą `/psychology-coach`)
 4. **Skills** → Używam AI mentorów do wsparcia w każdym kroku
-5. **`/up`** → Na koniec sesji: auto-update DEVLOG + commit + push (sync between computers)
+5. **`/pp`** → Na koniec sesji: auto-update DEVLOG + commit + push (sync between computers)
 
 ## 📝 Devlog
 

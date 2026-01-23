@@ -1,11 +1,10 @@
 ---
-name: up
+name: pp
 description: Update documentation after changes, create commit, and push to remote - use when finishing work session or after adding new content
 allowed-tools: Bash, Read, Edit, Write, Grep, Glob
-disable-model-invocation: true
 ---
 
-# Up - Documentation Updater & Git Publisher 🚀
+# PP - Documentation Updater & Git Publisher 🚀
 
 Automatycznie aktualizuję dokumentację, commituję zmiany i pushuję do remote.
 
@@ -20,9 +19,9 @@ Automatycznie aktualizuję dokumentację, commituję zmiany i pushuję do remote
 ## Kiedy mnie użyć
 
 ```bash
-/up                           # Standardowy update po zmianach
-/up Quick update             # Z custom message
-/up Added new business idea  # Z opisem co dodałeś
+/pp                           # Standardowy update po zmianach
+/pp Quick update             # Z custom message
+/pp Added new business idea  # Z opisem co dodałeś
 ```
 
 ## Mój workflow
@@ -94,19 +93,19 @@ Jeśli fail (auth issues), informuję Cię i pokazuję opcje.
 
 ```bash
 # Basic - auto-detect changes:
-/up
+/pp
 
 # With custom note:
-/up Added psychological reflection about work-life balance
+/pp Added psychological reflection about work-life balance
 
 # Review before push:
-/up --review
+/pp --review
 
 # Only update docs, no commit:
-/up --docs-only
+/pp --docs-only
 
 # Skip DEVLOG update:
-/up --no-devlog
+/pp --no-devlog
 ```
 
 ## Output
@@ -120,6 +119,6 @@ Pokazuję:
 
 ---
 
-**Tip:** Używaj `/up` na koniec każdej sesji pracy - to utrzymuje repo w dobrym stanie i sync między kompami!
+**Tip:** Używaj `/pp` na koniec każdej sesji pracy - to utrzymuje repo w dobrym stanie i sync między kompami!
 
 **Arguments:** `$ARGUMENTS` = optional custom message/note to include in commit

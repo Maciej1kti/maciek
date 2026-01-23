@@ -66,11 +66,11 @@ Planowane "AI Personas":
    - Always cite sources
    - Current date aware: 2026-01-23
 
-4. **up** 🚀 (Meta-skill!)
+4. **pp** 🚀 (Meta-skill!)
    - Auto-update DEVLOG.md po zmianach
    - Git commit + push workflow
    - Safety checks (no secrets, no binaries)
-   - Usage: `/up` na koniec każdej sesji
+   - Usage: `/pp` na koniec każdej sesji
 
 ### 💡 New Insights
 
@@ -86,7 +86,7 @@ Planowane "AI Personas":
 - ✅ Skills sync między kompami przez git (project skills in `.claude/skills/`)
 
 **Meta-observation:**
-- `/up` skill sam siebie dokumentuje - inception! 🤯
+- `/pp` skill sam siebie dokumentuje - inception! 🤯
 - Skills jako "documentation as code" - instrukcje + automation w jednym
 
 ---
