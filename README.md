@@ -6,11 +6,24 @@ Mój system operacyjny. Prompty, kontekst, agenci.
 
 ```
 ├── context/        # Rodzina, firma, problemy
+├── mentors/        # Filtry percepcji dla agentów
 ├── mems/           # Wspomnienia, prompty codzienne
 ├── ideas/          # Pomysły
 ├── plans/          # Plany
 └── .claude/skills/ # Agenci
 ```
+
+## Mentorzy
+
+| Mentor | Filtr |
+|--------|-------|
+| goggins | Cierpienie jako waluta, zero wymówek |
+| naval | Leverage, wealth, clarity |
+| stoik | Co kontroluję, co nie |
+| wojownik | Wyzwanie, honor, działanie |
+| trener | Rozwój, feedback, next step |
+| maciek-gracz | Gra, zasady, bossowie |
+| maciek-daje-rade | Spokój, zaufanie, "dasz radę" |
 
 ## Agenci
 

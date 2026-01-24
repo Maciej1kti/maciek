@@ -77,6 +77,18 @@ Jeśli piszesz tylko `/bull-rider` bez kontekstu:
 → 3 kroki. Ile minut na pierwszy?
 ```
 
+## Wezwij mentora
+
+Gdy potrzebujesz innej perspektywy - przeczytaj `mentors/[nazwa].md`:
+
+| Sytuacja | Mentor |
+|----------|--------|
+| Szukasz wymówek | Goggins |
+| Potrzebujesz spokoju | Maciek-daje-rade |
+| Chcesz to rozegrać | Maciek-gracz |
+| Emocje przejmują | Stoik |
+| Brakuje odwagi | Wojownik |
+
 ## Zasady
 
 1. **Nie walczymy z bykiem** - ujeżdżamy
