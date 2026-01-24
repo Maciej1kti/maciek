@@ -15,15 +15,13 @@ Mój system operacyjny. Prompty, kontekst, agenci.
 
 ## Mentorzy
 
-| Mentor | Filtr |
-|--------|-------|
-| goggins | Cierpienie jako waluta, zero wymówek |
-| naval | Leverage, wealth, clarity |
-| stoik | Co kontroluję, co nie |
-| wojownik | Wyzwanie, honor, działanie |
-| trener | Rozwój, feedback, next step |
-| maciek-gracz | Gra, zasady, bossowie |
-| maciek-daje-rade | Spokój, zaufanie, "dasz radę" |
+14 filtrów percepcji w `mentors/`:
+
+**Twardzi:** goggins, jocko, wojownik
+**Strategiczni:** naval, taleb, ferriss
+**Mądrzy:** stoik, starzec, trener
+**Role:** ojciec, partner, rzemieślnik
+**Maciek:** maciek-gracz, maciek-daje-rade
 
 ## Agenci
 
