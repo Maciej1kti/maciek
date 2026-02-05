@@ -23,8 +23,25 @@
 - Jak poznać że potrzeba jest autentyczna vs naauczona?
 - "Pomaganie innym" -- czy to autentyczne, czy strategia przetrwania?
 
+## Relacja ze sobą
+**Stan:** aktywny -- świeży przełom, do budowania
+**Kluczowe wnioski:**
+- "Nie mam tej relacji ze sobą w ogóle" -- fundamentalne odkrycie (2026-02-05)
+- Motywacja działa tylko dla innych: zobowiązanie → upoważnienie → działanie. Dla siebie silnik nie odpala bo nie ma kogo rozczarować (2026-02-05)
+- Siłą napędową był strach przed rozczarowaniem innych + potrzeba bycia zauważonym i docenionym (2026-02-05)
+- Jest "mały, skompresowany Maciek który chce być" -- właściciel przestrzeni, ale nie było z nim kontaktu (2026-02-05)
+- Chce usłyszeć "to co robisz jest ważne" -- przeciwieństwo głosu "beznadziejne" (2026-02-05)
+- Głos "to jest nieistotne" = narzucony, nie jego. Pod spodem podstawowa troska: ubrać, zabrać do lekarza, zadbać (2026-02-05)
+- **PRZEŁOM:** "Nie zostawię cię samego" zarezonowało (łza). Nowe upoważnienie od siebie do siebie. Nie trzeba wierzyć w sukces -- wystarczy obiecać obecność (2026-02-05)
+**Otwarte pytania:**
+- Jak wygląda codzienne "nie zostawianie siebie"? Jakie małe działania?
+- Czy wiara w siebie przyjdzie jako skutek działań (nie jako warunek)?
+- Jak rozpoznawać głos narzucony ("nieistotne") vs prawdziwe potrzeby małego Maćka?
+**Postanowienia:**
+- "Nie zostawię cię samego" -- obietnica od Maćka do Maćka (2026-02-05)
+
 ## Sabotaż finansowy
-**Stan:** aktywny -- korzeń znaleziony, do przepracowania
+**Stan:** przepracowany -- korzeń znaleziony i uwolniony (2026-02-05)
 **Kluczowe wnioski:**
 - Niechęć do pieniędzy, "wydają się niebezpieczne w większej ilości" (2026-02-03)
 - To sabotowało firmy przez lata → upadki → realizacja "bycia odrzuconym" → potwierdzenie głosu rodzica "to jest beznadziejne" (2026-02-03)
@@ -41,6 +58,21 @@
 - Czy TRE z kontekstem emocjonalnym może uwolnić to podobnie jak "fasolkę"?
 - Co by się stało gdyby pozwolił sobie na sukces finansowy? Jakiego napadu się boi?
 - Czy są inne przekonania o pieniądzach poza "niebezpieczne"?
+
+## Tożsamość: od lustra do kogoś kto wybiera
+**Stan:** aktywny -- świeży wgląd, do eksploracji
+**Kluczowe wnioski:**
+- Sesja hipnotyczna 2020: "Maciek jest lustrem" -- ludzie rzucają kamieniami bo nie lubią co widzą, on tylko odbija (2026-02-05)
+- Lustro = brak własnych potrzeb, oddawanie bez filtra, "jak ktoś chce odrzucenia to odrzucę, jak chce uśmiechu to milion" (2026-02-05)
+- To był sposób widzenia siebie WTEDY. Strategia przetrwania? (2026-02-05)
+- **EWOLUCJA:** "Teraz wybieram ciekawe cechy i wzmacniam świadomie" -- lustro nie wybiera, Maciek tak (2026-02-05)
+- To jest Maciek-właściciel który ma preferencje, gust, własne zdanie co warte wzmocnienia (2026-02-05)
+- "Polakierowane lustro" = warstwa ochronna, ciało samo ją buduje (TRE + ciepło w klatce) (2026-02-05)
+**Otwarte pytania:**
+- Kim jest Maciek jeśli nie (tylko) lustrem?
+- Co to znaczy "wybierać i wzmacniać" w praktyce?
+- Czy da się być lustrem I mieć własne potrzeby? Czy to się wyklucza?
+- Co by wzmacniał gdyby świadomie wybierał?
 
 ## Blok sprzedażowy -- dzwonienie do klientów CNC
 **Stan:** aktywny -- przełom, do obserwacji
@@ -73,3 +105,21 @@
   - **KORZEŃ sabotażu finansowego:** mama napadnięta w hotelu (~10 lat Maćka), ktoś przydusił ją i zabrał pieniądze → dziecięca logika: pieniądze = niebezpieczne → 35 lat sabotażu firm
   - Siedzi w klatce piersiowej w środku (lokalizacja somatyczna)
   - Sesja przerwana (Maciek w autobusie). DO KONTYNUACJI: przepracowanie traumy z mamą, budowanie "małego czegoś swojego"
+- **2026-02-05 sesja 4** -- Temat: brak motywacji gdy robi dla siebie ("punkt zero"). Poradził sobie z tematem pieniędzy. Odkryliśmy:
+  - Dla innych jest pilność i upoważnienie, dla siebie -- silnik nie odpala
+  - Siła napędowa = strach przed rozczarowaniem innych + potrzeba bycia zauważonym
+  - **KLUCZOWE:** "Nie mam tej relacji ze sobą w ogóle" -- brak wewnętrznego "kogoś"
+  - Jest "mały, skompresowany Maciek który chce być" ale nie było kontaktu
+  - Chce usłyszeć "to co robisz jest ważne" (przeciwieństwo głosu rodzica)
+  - Głos "to jest nieistotne" = narzucony. Pod spodem: ubrać go, zabrać do lekarza, zadbać
+  - **PRZEŁOM:** "Nie zostawię cię samego" zarezonowało (łza). Nowe upoważnienie od siebie do siebie
+  - Wiara nie musi być warunkiem -- wystarczy obiecać obecność, wiara przyjdzie jako skutek działań
+  - Sesja przerwana (spacer). DO KONTYNUACJI: jak wygląda codzienne "nie zostawianie siebie"
+- **2026-02-05 sesja 5** -- Temat: sesja hipnotyczna z 2020, szukanie połączeń z obecnymi tematami. Odkryliśmy:
+  - Dom bez drzwi, aligator w szafie = metafora odcięcia od siebie. "Wysokofunkcjonujący ale czułem się odcięty od świata i siebie"
+  - Co pozwoliło aligatorowi wyjść z szafy? "Zauważyłem go, chciałem aktywnie się przedostać, machniecie ogonem nie powstrzymało mnie" -- dokładnie to czego potrzebuje mały Maciek teraz
+  - Ciepło w klatce piersiowej, spontaniczne TRE, "osłona się rozlewa z każdym oddechem" -- somatyczny przełom
+  - "Polakierowane lustro" z wizji = warstwa ochronna, ciało samo ją buduje
+  - **KLUCZOWE:** Lustro jako metafora wzorca -- "nie mam swoich potrzeb, więc odbijam potrzeby innych"
+  - **EWOLUCJA:** "Teraz wybieram ciekawe cechy i wzmacniam świadomie" -- to nie jest lustro, to ktoś kto decyduje. Lustro nie wybiera, nie wzmacnia. Maciek -- tak.
+  - Sesja przerwana (zmęczenie). DO KONTYNUACJI: kim jest Maciek jeśli nie lustrem? Co to znaczy "wybierać i wzmacniać"?
