@@ -1,6 +1,6 @@
 # Maciek -- Profil
 
-Ostatnia aktualizacja: 2026-02-05 (sesja 5 - sesja hipnotyczna 2020, lustro, osłona)
+Ostatnia aktualizacja: 2026-02-06 (sesja 6 - proszenie o pomoc, aligator wolny)
 
 ## Kim jestem
 
@@ -20,7 +20,9 @@ Dobry technicznie (komputery, AI), zmysł estetyczny. Lubi pomagać innym.
 
 **"Super małe coś swojego":** Jest przestrzeń która należy do Maćka, ale dopiero zaczyna nawiązywać kontakt z tym Maćkiem-właścicielem.
 
-**Sesja hipnotyczna 2020:** Odkrycie połączeń z wizją sprzed 5 lat. Dom bez drzwi, aligator w szafie = "byłem wysokofunkcjonujący, ale czułem się odcięty od świata, odcięty od siebie". Ciepło w klatce + spontaniczne TRE + "osłona się rozlewa" = somatyczny przełom.
+**Proszenie o pomoc:** Przełom somatyczny -- taśma od gardła do klatki (blokada proszenia) rozciągnięta przez spontaniczne TRE. Odkrycie: proszenie o pomoc = naturalny flow w obie strony, nie upokorzenie. Poprosił wszystkie znane postacie o pomoc -- ciepło i akceptacja.
+
+**Aligator wolny:** Symbole z wizji 2020 się transformowały. Aligator wyszedł z szafy, nalana energia w miękki brzuch, zaczął świecić. Mury domu się posypały. Stoi na wietrze -- trochę strasznie bo wszystko nowe, ale "można iść i odkrywać świat". Deszcz nie straszny -- jest aligatorem.
 
 **Od lustra do kogoś kto wybiera:** Kiedyś widział siebie jako lustro (pasywne, tylko odbija potrzeby innych, nie ma swoich). Teraz: "wybieram ciekawe cechy i wzmacniam świadomie" -- to nie jest lustro, to ktoś kto decyduje. Maciek-właściciel.
 
@@ -50,6 +52,10 @@ Regularnie robi TRE (Tension Release Exercises) od paru miesięcy.
 - **Mały Maciek który chce być** -- jest "przestrzeń która należy do Maćka" ale nie było kontaktu z tym Maćkiem-właścicielem. Jest mały, skompresowany, ale chce być. Potrzebuje usłyszeć "to co robisz jest ważne" (przeciwieństwo głosu "beznadziejne"). (2026-02-05)
 - **Głos "to jest nieistotne"** -- narzucony głos delegitymizujący własne potrzeby. Pod spodem: ubrać go, zabrać do lekarza, zadbać o niego -- podstawowa troska którą dawał innym ale nie sobie. (2026-02-05)
 - **PRZEŁOM: "Nie zostawię cię samego"** -- ta obietnica zarezonowała (łza). To jest nowe upoważnienie -- nie od klienta czy szefa, ale od siebie do siebie. Nie trzeba wierzyć w sukces, wystarczy obiecać obecność. (2026-02-05)
+
+### Proszenie o pomoc
+- **Taśma od gardła do klatki** -- fizyczna blokada proszenia. "Proszenie = porażka, upokorzenie." Radzenie sobie samemu = skala zajebistości ego. (2026-02-06)
+- **PRZEŁOM:** TRE rozciągnęło taśmę (~15 min). Insight: proszenie = naturalny flow w obie strony. Poprosił ludzi o pomoc -- ciepło i akceptacja. Taśma trzymała aligatora za murami -- proszenie o pomoc było kluczem do wolności. (2026-02-06)
 
 ### Ciało i somatyka
 - **Ciało wie** -- kiedy emocja została dotknięta, TRE włączyło się spontanicznie i celnie: wymachy prawej ręki naciągające miejsce blokady, lewa ręka rozmasowująca fasolkę. Ciało zna drogę do uwolnienia, trzeba mu dać kontekst emocjonalny (2026-02-03)

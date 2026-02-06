@@ -116,25 +116,30 @@
   - Wiara nie musi być warunkiem -- wystarczy obiecać obecność, wiara przyjdzie jako skutek działań
   - Sesja przerwana (spacer). DO KONTYNUACJI: jak wygląda codzienne "nie zostawianie siebie"
 ## Proszenie o pomoc / mówienie o potrzebach
-**Stan:** do eksploracji -- notatka z 2026-02-06
+**Stan:** przełom somatyczny -- blokada rozciągnięta (2026-02-06)
 **Notatka wstępna (od Maćka):**
 - Nie potrafię prosić o pomoc (dla siebie)
 - Nie potrafię mówić o swoich emocjach i potrzebach
 - Gdy myśli o proszeniu: przytłone gardło + uczucie upokorzenia
 - "Muszę kogoś prosić bo sam nie daję rady" = porażka
 - "Radzenie sobie samemu to skala zajebistości ego"
-- Obserwacja: "zacząłem od przemyślanej myśli, a potem samo płynęło skojarzeniami" -- ciekawe jak to działa gdy pozwolić
-**Możliwe połączenia:**
-- Głos "to jest beznadziejne" -- proszenie o pomoc = przyznanie że głos ma rację?
-- Wzorzec oddawania -- dawać innym OK, brać dla siebie nie OK
-- "Nie zostawię cię samego" -- ale co jeśli potrzebujesz też kogoś innego? Czy to zdrada obietnicy?
-- Brak relacji ze sobą -- nie ma kto poprosić, nie ma kto przyjąć
-**Otwarte pytania (do sesji):**
-- Co dokładnie czujesz w gardle gdy myślisz o proszeniu?
-- Czyj to głos mówi że proszenie = upokorzenie?
-- Co najgorszego mogłoby się stać gdybyś poprosił?
-- Czy ktoś kiedyś poprosił cię o pomoc? Jak to odebrałeś?
-- Czy radzenie sobie samemu kiedyś było konieczne do przetrwania?
+**Odkrycia z sesji 6 (2026-02-06):**
+- **Taśma somatyczna:** długa taśma od gardła w dół do dolnej klatki piersiowej, prawy piersiowy -- fizyczna blokada proszenia o pomoc
+- **Spontaniczne TRE:** postawiło do pionu (siedział), rozciągnęło taśmę, ~15 min. Taśma znacząco osłabła
+- **Insight:** proszenie o pomoc = naturalny flow w obie strony, nie porażka
+- **Wizualizacja:** poprosił wszystkie znane postacie o pomoc -- każda się zgodziła. Dużo ciepła i akceptacji (przeciwieństwo upokorzenia)
+- **Transformacja symboli z wizji 2020:** zielony aligator z szafy -- nalał w niego energię (w miękki brzuch), aligator zaczął świecić. Mury domu się posypały
+- **Aligator na wietrze:** stoi bez murów, dreszcz (micro TRE), trochę strasznie bo nowe, ale "można iść i odkrywać świat". Chmury, deszcz -- ale jest aligatorem, deszcz mu nie straszny, słońce wróci
+- **Po sesji:** "wyczyszczona rana, która będzie się zabliźniać"
+- **KLUCZ:** Taśma (blokada proszenia) trzymała aligatora za murami. Proszenie o pomoc = klucz do wolności, nie upokorzenie
+**Połączenia:**
+- Taśma w tym samym obszarze co fasolka (prawy piersiowy) -- głos rodzica "to jest beznadziejne" + blokada proszenia o pomoc powiązane somatycznie
+- Dawać innym OK → brać dla siebie nie OK → teraz: naturalny flow w obie strony
+- "Nie zostawię cię samego" + proszenie innych o pomoc = nie wykluczają się, wzmacniają się
+**Otwarte pytania:**
+- Jak ta zmiana utrzymuje się w czasie? Jak wygląda proszenie o pomoc w praktyce?
+- Czy "upokorzenie" wróci w realnej sytuacji, czy taśma naprawdę puściła?
+- Kogo konkretnie poprosić o pomoc? Z czym?
 
 ---
 
@@ -146,3 +151,12 @@
   - **KLUCZOWE:** Lustro jako metafora wzorca -- "nie mam swoich potrzeb, więc odbijam potrzeby innych"
   - **EWOLUCJA:** "Teraz wybieram ciekawe cechy i wzmacniam świadomie" -- to nie jest lustro, to ktoś kto decyduje. Lustro nie wybiera, nie wzmacnia. Maciek -- tak.
   - Sesja przerwana (zmęczenie). DO KONTYNUACJI: kim jest Maciek jeśli nie lustrem? Co to znaczy "wybierać i wzmacniać"?
+- **2026-02-06 sesja 6** -- Temat: proszenie o pomoc. Odkryliśmy:
+  - Taśma somatyczna od gardła do dolnej klatki piersiowej (prawy) = fizyczna blokada proszenia
+  - Spontaniczne TRE (~15 min) rozciągnęło taśmę, znacząco osłabło
+  - Insight: proszenie = naturalny flow w obie strony, nie upokorzenie/porażka
+  - Poprosił znane postacie o pomoc -- ciepło i akceptacja (przeciwieństwo upokorzenia)
+  - **TRANSFORMACJA SYMBOLI:** aligator z wizji 2020 -- nalał energię w miękki brzuch, zaczął świecić. Mury domu posypały się
+  - Aligator na wietrze, bez murów. Trochę strasznie, deszcz, chmury -- ale jest aligatorem, poradzi sobie, przygoda czeka
+  - "Wyczyszczona rana, która będzie się zabliźniać"
+  - **KLUCZ:** proszenie o pomoc = klucz który otworzył mury. Taśma trzymała aligatora zamkniętego
