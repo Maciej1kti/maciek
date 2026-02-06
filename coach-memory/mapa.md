@@ -115,6 +115,29 @@
   - **PRZEŁOM:** "Nie zostawię cię samego" zarezonowało (łza). Nowe upoważnienie od siebie do siebie
   - Wiara nie musi być warunkiem -- wystarczy obiecać obecność, wiara przyjdzie jako skutek działań
   - Sesja przerwana (spacer). DO KONTYNUACJI: jak wygląda codzienne "nie zostawianie siebie"
+## Proszenie o pomoc / mówienie o potrzebach
+**Stan:** do eksploracji -- notatka z 2026-02-06
+**Notatka wstępna (od Maćka):**
+- Nie potrafię prosić o pomoc (dla siebie)
+- Nie potrafię mówić o swoich emocjach i potrzebach
+- Gdy myśli o proszeniu: przytłone gardło + uczucie upokorzenia
+- "Muszę kogoś prosić bo sam nie daję rady" = porażka
+- "Radzenie sobie samemu to skala zajebistości ego"
+- Obserwacja: "zacząłem od przemyślanej myśli, a potem samo płynęło skojarzeniami" -- ciekawe jak to działa gdy pozwolić
+**Możliwe połączenia:**
+- Głos "to jest beznadziejne" -- proszenie o pomoc = przyznanie że głos ma rację?
+- Wzorzec oddawania -- dawać innym OK, brać dla siebie nie OK
+- "Nie zostawię cię samego" -- ale co jeśli potrzebujesz też kogoś innego? Czy to zdrada obietnicy?
+- Brak relacji ze sobą -- nie ma kto poprosić, nie ma kto przyjąć
+**Otwarte pytania (do sesji):**
+- Co dokładnie czujesz w gardle gdy myślisz o proszeniu?
+- Czyj to głos mówi że proszenie = upokorzenie?
+- Co najgorszego mogłoby się stać gdybyś poprosił?
+- Czy ktoś kiedyś poprosił cię o pomoc? Jak to odebrałeś?
+- Czy radzenie sobie samemu kiedyś było konieczne do przetrwania?
+
+---
+
 - **2026-02-05 sesja 5** -- Temat: sesja hipnotyczna z 2020, szukanie połączeń z obecnymi tematami. Odkryliśmy:
   - Dom bez drzwi, aligator w szafie = metafora odcięcia od siebie. "Wysokofunkcjonujący ale czułem się odcięty od świata i siebie"
   - Co pozwoliło aligatorowi wyjść z szafy? "Zauważyłem go, chciałem aktywnie się przedostać, machniecie ogonem nie powstrzymało mnie" -- dokładnie to czego potrzebuje mały Maciek teraz
