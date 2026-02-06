@@ -141,6 +141,23 @@
 - Czy "upokorzenie" wróci w realnej sytuacji, czy taśma naprawdę puściła?
 - Kogo konkretnie poprosić o pomoc? Z czym?
 
+## Kierunek zawodowy: Factorio z AI
+**Stan:** aktywny -- świeży wgląd, do rozwijania
+**Kluczowe wnioski:**
+- Kop życiowy: **materializowanie wizji** -- plan → rzeczywistość. To jest moment który daje największą satysfakcję (2026-02-06)
+- Historia: budowa maszyn i systemów zrobotyzowanych -- tam spotykało się wszystko: technika + estetyka + puzzle + pomaganie (2026-02-06)
+- Profil: buduje, pomaga, projektuje, rozwiązuje puzzle -- łączy rzeczy, nie specjalizuje się w jednej (2026-02-06)
+- Praca z AI spełnia tę samą potrzebę co budowa maszyn -- szybki cykl wizja → realizacja (2026-02-06)
+- **METAFORA:** "Factorio z AI" -- biorę problem, buduję automat, pakuję w SaaS. Każdy nowy problem = nowa linia produkcyjna (2026-02-06)
+- Chce pracować z "ważnymi ludźmi" -- infrastruktura która sprawia że ważni ludzie robią swoje rzeczy szybciej (2026-02-06)
+- Tryb pracy: mieszanka sam/z ludźmi (2026-02-06)
+- Zdanie na imprezę: "Buduję automaty z AI. Biorę problem, robię z niego maszynę, pakuję w SaaS. Takie Factorio w realu." (2026-02-06)
+**Otwarte pytania:**
+- Jakie kolejne problemy/branże po CNC?
+- Jak znaleźć tych "ważnych ludzi"?
+- Czy Technolog CNC to MVP fabryki SaaS-ów, czy osobny projekt?
+- Jak wygląda skalowanie -- sam vs zespół?
+
 ---
 
 - **2026-02-05 sesja 5** -- Temat: sesja hipnotyczna z 2020, szukanie połączeń z obecnymi tematami. Odkryliśmy:
@@ -160,3 +177,10 @@
   - Aligator na wietrze, bez murów. Trochę strasznie, deszcz, chmury -- ale jest aligatorem, poradzi sobie, przygoda czeka
   - "Wyczyszczona rana, która będzie się zabliźniać"
   - **KLUCZ:** proszenie o pomoc = klucz który otworzył mury. Taśma trzymała aligatora zamkniętego
+- **2026-02-06 sesja 7** -- Szybka sesja (10 min), na pozytywnie. Odkryliśmy:
+  - Proszenie o pomoc przyszło naturalnie ("pomożesz mi?") -- bez walki, bez taśmy. Zmiana się utrzymuje
+  - Zapomniał że sesja 6 była dzisiaj -- tyle się stało że wydaje się dawno. "Maciek został zauważony, uwolniony, gotowy na przygodę"
+  - **KIERUNEK ZAWODOWY:** kop = materializowanie wizji (plan → rzeczywistość). Od maszyn zrobotyzowanych do AI
+  - "Factorio z AI" -- budować automaty z AI, pakować w SaaS-y. Fabryka SaaS-ów
+  - Chce pracować z ważnymi ludźmi, budować infrastrukturę
+  - **RYTUAŁ:** codzienny wieczorny check-in 10 min

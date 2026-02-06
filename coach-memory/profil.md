@@ -1,6 +1,6 @@
 # Maciek -- Profil
 
-Ostatnia aktualizacja: 2026-02-06 (sesja 6 - proszenie o pomoc, aligator wolny)
+Ostatnia aktualizacja: 2026-02-06 (sesja 7 - kierunek zawodowy, Factorio z AI)
 
 ## Kim jestem
 
@@ -8,7 +8,7 @@ Maciek, 45 lat, auADHD (autyzm + ADHD), wysoko wyczulony kinestetyk. Buduję nar
 
 Historia wielu biznesów, które się rozpadały -- nieświadomy sabotaż finansowy (korzeń: trauma z dzieciństwa). Pracował jako prawa ręka prezesów -- po ~roku dochodziło do konfliktów i był wyrzucany. 5 lat wychodzenia z depresji po ostatnim crashu (klient zostawił na lodzie, wspólnik nie pomógł, długi).
 
-Dobry technicznie (komputery, AI), zmysł estetyczny. Lubi pomagać innym.
+Dobry technicznie (komputery, AI), zmysł estetyczny. Lubi pomagać innym. Kop życiowy: **materializowanie wizji** -- plan → rzeczywistość. Od maszyn zrobotyzowanych do AI.
 
 ## Co teraz
 
@@ -26,7 +26,9 @@ Dobry technicznie (komputery, AI), zmysł estetyczny. Lubi pomagać innym.
 
 **Od lustra do kogoś kto wybiera:** Kiedyś widział siebie jako lustro (pasywne, tylko odbija potrzeby innych, nie ma swoich). Teraz: "wybieram ciekawe cechy i wzmacniam świadomie" -- to nie jest lustro, to ktoś kto decyduje. Maciek-właściciel.
 
-Buduje innowacyjny SaaS dla zakładów CNC -- automatyczna wycena z rysunków technicznych. Blok sprzedażowy zelżał po sesji somatycznej (2026-02-03).
+**Kierunek zawodowy:** "Factorio z AI" -- bierze problem, buduje automat z AI, pakuje w SaaS. Fabryka SaaS-ów. Pierwszy produkt: Technolog CNC (automatyczna wycena z rysunków technicznych). Blok sprzedażowy zelżał po sesji somatycznej (2026-02-03).
+
+**Rytuał:** codzienny wieczorny check-in 10 min (ustalony 2026-02-06).
 
 Regularnie robi TRE (Tension Release Exercises) od paru miesięcy.
 
