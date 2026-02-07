@@ -152,11 +152,39 @@
 - Chce pracować z "ważnymi ludźmi" -- infrastruktura która sprawia że ważni ludzie robią swoje rzeczy szybciej (2026-02-06)
 - Tryb pracy: mieszanka sam/z ludźmi (2026-02-06)
 - Zdanie na imprezę: "Buduję automaty z AI. Biorę problem, robię z niego maszynę, pakuję w SaaS. Takie Factorio w realu." (2026-02-06)
+**Szczegóły historii zawodowej (sesja 8, 2026-02-07):**
+- Dekada w handlu aparaturą kontrolno-pomiarową -- przodujący, proaktywny
+- Startup: maszyny + roboty przemysłowe (4→16 ludzi), z kumplami
+- Firma 16→32 ludzi: BDM, PM, kierownik zakupów i produkcji (wiele ról)
+- Duża produkcja: kilka mln, ~200 tematów tygodniowo -- zbudował całość
+- Zawsze działał **dla akceptacji, nie dla pieniędzy** + dla flow (rozkminianie > budowanie)
+- Nienawidzi powtórzeń → duże katalogi produktów lub prototypy/jednostki
+- **Plan = święty** (cecha autyzmu): gotowa maszyna stoi w głowie w momencie zamówienia. Zmiana planu = zniszczenie czegoś co już istnieje → frustracja, irytacja. Nie wiedział że inni mogą zmienić plan
+- Zmiany w produkcji nie konsultowane z nim, choć mogłyby oszczędzić 40% kosztów
 **Otwarte pytania:**
 - Jakie kolejne problemy/branże po CNC?
 - Jak znaleźć tych "ważnych ludzi"?
 - Czy Technolog CNC to MVP fabryki SaaS-ów, czy osobny projekt?
 - Jak wygląda skalowanie -- sam vs zespół?
+
+## Crash życiowy
+**Stan:** przeszłość -- przepracowywane, kontekst dla obecnej sytuacji
+**Kluczowe wnioski (sesja 8, 2026-02-07):**
+- Zbudował firmę DLA partnerki -- partnerka go zdradziła w trakcie
+- Firma upadła → ~300 tyś PLN długu
+- Strata domu, ograniczenie kontaktu z dzieckiem
+- Jechał na SOR z bólem głowy i 500 PLN całego kapitału
+- 5 lat wychodzenia z depresji po tym crashu
+- **To jest dosłowna realizacja wzorca "oddawania wszystkiego"** -- nie metafora, oddał dosłownie wszystko: firmę, dom, pieniądze, zdrowie
+**Połączenia:**
+- Wzorzec oddawania siebie (rdzeń) doprowadzony do skrajności
+- Sabotaż finansowy + budowanie dla innych + zdrada = idealny storm
+- "Na kolanach, oddał wszystko" -- to nie jest opis emocjonalny, to opis faktyczny
+**Otwarte pytania:**
+- Jak Maciek rozumie ten crash teraz, z perspektywy czasu?
+- Co z dzieckiem? Jak wygląda kontakt?
+- Czy dług jest nadal aktualny?
+- Co pozwoliło przetrwać te 5 lat depresji?
 
 ---
 
@@ -178,6 +206,18 @@
   - "Wyczyszczona rana, która będzie się zabliźniać"
   - **KLUCZ:** proszenie o pomoc = klucz który otworzył mury. Taśma trzymała aligatora zamkniętego
 - **2026-02-06 sesja 7** -- Szybka sesja (10 min), na pozytywnie. Odkryliśmy:
+  - Proszenie o pomoc przyszło naturalnie ("pomożesz mi?") -- bez walki, bez taśmy. Zmiana się utrzymuje
+  - Zapomniał że sesja 6 była dzisiaj -- tyle się stało że wydaje się dawno
+  - **KIERUNEK ZAWODOWY:** kop = materializowanie wizji (plan → rzeczywistość). Od maszyn do AI
+  - "Factorio z AI" -- budować automaty z AI, pakować w SaaS-y
+  - **RYTUAŁ:** codzienny wieczorny check-in 10 min
+- **2026-02-07 sesja 8** -- Zrzut kontekstu (Maciek na SORze z bólem głowy, pisze z autobusu/poczekalni). Nie sesja coachingowa, raczej uzupełnienie historii:
+  - Szczegóły kariery: dekada handlu AKPiA, startup maszyny/roboty (4→16), firma 16→32 (BDM/PM/kierownik), duża produkcja (mln, 200 tematów/tydzień)
+  - Zawsze przodujący -- ale dla akceptacji, nie pieniędzy. Dla flow rozkminiania
+  - **CECHA AUTYZMU:** plan = już zrealizowana rzeczywistość w głowie. Zmiana planu = zniszczenie. Nie wiedział że inni mogą zmieniać plany
+  - Nienawidzi powtórzeń → prototypy, jednostki, duże katalogi
+  - **CRASH:** firma zbudowana dla partnerki, partnerka zdradziła, upadek → 300 tyś długu, strata domu, ograniczenie kontaktu z dzieckiem, SOR z 500 PLN
+  - DO KONTYNUACJI: pogłębienie historii, kontekst crashu, dziecko, jak wyszedł z depresji
   - Proszenie o pomoc przyszło naturalnie ("pomożesz mi?") -- bez walki, bez taśmy. Zmiana się utrzymuje
   - Zapomniał że sesja 6 była dzisiaj -- tyle się stało że wydaje się dawno. "Maciek został zauważony, uwolniony, gotowy na przygodę"
   - **KIERUNEK ZAWODOWY:** kop = materializowanie wizji (plan → rzeczywistość). Od maszyn zrobotyzowanych do AI

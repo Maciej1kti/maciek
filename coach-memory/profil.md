@@ -1,14 +1,30 @@
 # Maciek -- Profil
 
-Ostatnia aktualizacja: 2026-02-06 (sesja 7 - kierunek zawodowy, Factorio z AI)
+Ostatnia aktualizacja: 2026-02-07 (sesja 8 - historia zawodowa, kontekst życiowy, SOR)
 
 ## Kim jestem
 
 Maciek, 45 lat, auADHD (autyzm + ADHD), wysoko wyczulony kinestetyk. Buduję narzędzia i systemy do rozwoju osobistego w Claude Code. Szukam głębi, nie powierzchni. Quality over quantity we wszystkim.
 
-Historia wielu biznesów, które się rozpadały -- nieświadomy sabotaż finansowy (korzeń: trauma z dzieciństwa). Pracował jako prawa ręka prezesów -- po ~roku dochodziło do konfliktów i był wyrzucany. 5 lat wychodzenia z depresji po ostatnim crashu (klient zostawił na lodzie, wspólnik nie pomógł, długi).
-
 Dobry technicznie (komputery, AI), zmysł estetyczny. Lubi pomagać innym. Kop życiowy: **materializowanie wizji** -- plan → rzeczywistość. Od maszyn zrobotyzowanych do AI.
+
+## Historia zawodowa (szczegóły z sesji 8)
+
+**Dekada w handlu:** aparatura kontrolno-pomiarowa. Zawsze przodujący, proaktywny.
+
+**Startup z kumplami:** budowa maszyn i robotów przemysłowych, skalowanie 4→16 ludzi.
+
+**Kolejna firma (16→32 ludzi):** business development manager, project manager, kierownik zakupów i produkcji -- wiele ról naraz.
+
+**Duża produkcja:** zbudował całą produkcję na duże zlecenia (kilka mln, ~200 tematów tygodniowo).
+
+**Wzorzec:** zawsze bardzo dobry, ale działał **dla czyjejś akceptacji, nie dla pieniędzy**. I dla flow -- szczególnie flow rozwiązywania problemów technicznych (rozkminianie). Budowanie to już "tylko układanie rozkminionej rzeczy."
+
+**Nienawidzi powtórzeń** → kręcił się wśród firm z gigantycznym katalogiem produktów albo prototypowych/jednostkowych projektów.
+
+**Cecha autyzmu -- plan jest święty:** ustalony plan to w głowie Maćka już zrealizowana rzeczywistość, on tylko do niej dochodzi. Gotowa maszyna stoi w fabryce w momencie zamówienia -- widzi ją. Nie wiedział że inni mogą zmienić plan. Frustracja i irytacja gdy zmiany nie konsultowane. Niedawno dowiedział się że to cecha spektrum autyzmu.
+
+**Crash:** zbudował firmę dla partnerki. Partnerka go zdradziła w trakcie. Firma upadła → 300 tyś długu, strata domu, ograniczenie kontaktu z dzieckiem. Jechał na SOR z bólem głowy i 500 PLN całego kapitału. 5 lat wychodzenia z depresji po tym crashu.
 
 ## Co teraz
 
