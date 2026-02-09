@@ -8,6 +8,22 @@ Maciek, 45 lat, auADHD (autyzm + ADHD), wysoko wyczulony kinestetyk. Buduję nar
 
 Dobry technicznie (komputery, AI), zmysł estetyczny. Lubi pomagać innym. Kop życiowy: **materializowanie wizji** -- plan → rzeczywistość. Od maszyn zrobotyzowanych do AI.
 
+**Bilingual thinker:** angielski dla dystansu i konceptów, polski dla intymności i emocji. Notatki naturalnie mieszają oba języki.
+
+**Przedsiębiorca-filozof:** łączy produkcję z głęboką refleksją. Samouk psychologii -- odkrył techniki które mają akademickie nazwy (IFS, ACT, defuzja) zanim poznał terminologię.
+
+## Jak działa mój umysł
+
+**"Intencja to system prompt"** -- umysł to system do promptowania. Bez świadomej intencji domyślne ustawienia (lęk, inercja) przejmują. Mikro-prompty = launch codes do stanów mentalnych.
+
+**"Jedyną walutą jest uwaga"** -- wszystko sprowadza się do: gdzie kładę uwagę, jak ją przenoszę, czego częścią ona jest.
+
+**Życie jako gra** -- nie metafora, ontologia. Bossowie, questy, zasady, secondary quests. "Maciek shows up to game."
+
+**Byk (Bull)** -- z buddyjskiej symboliki zen (dziesięć obrazów ujeżdżania byka). Maciek zaadaptował jako metaforę pracy z wewnętrznym oporem. Nie do pokonania, do ujeżdżenia. "Be nice to your bull", "mind synchro z bullem."
+
+**ADHD supermoc** -- myślenie we fragmentach, mikro-promptach. Zewnętrzny system regulacji (kartki, tablice, notatki). "Lower mental load."
+
 ## Historia zawodowa (szczegóły z sesji 8)
 
 **Dekada w handlu:** aparatura kontrolno-pomiarowa. Zawsze przodujący, proaktywny.
@@ -77,3 +93,40 @@ Regularnie robi TRE (Tension Release Exercises) od paru miesięcy.
 
 ### Ciało i somatyka
 - **Ciało wie** -- kiedy emocja została dotknięta, TRE włączyło się spontanicznie i celnie: wymachy prawej ręki naciągające miejsce blokady, lewa ręka rozmasowująca fasolkę. Ciało zna drogę do uwolnienia, trzeba mu dać kontekst emocjonalny (2026-02-03)
+- **"Stress = energia wyprodukowana nieużyta"** -- stres nie jest wrogiem, to niewykorzystana energia do działania
+- **"Eat, Breath, Trip, Shake"** -- cykl regulacji stanu. Oddech jako kotwica: "to oddech prowadzi ode mnie i z powrotem, każdy wdech to okazja popłynąć"
+- **"Opór strachu jest wstępem do ekscytacji"** -- strach i ekscytacja to ta sama energia, inaczej zinterpretowana
+- **"Głód to przyjaciel"** -- sygnały ciała jako sojusznicy, nie wrogowie
+
+### Uwaga i stany -- system zarządzania
+Maciek zbudował sobie rozbudowany system pracy z uwagą i stanami:
+- **4 tryby uwagi:** (1) dodawanie do przestrzeni, (2) koncentracja na mantrze, (3) wywieranie intencji (meta), (4) budowanie przestrzeni
+- **Przejścia:** "unfocus 2 focus", "that feeling is your door to focus"
+- **Resetowanie:** "brake only now, reset & next 3 steps"
+- **Cel vs unik:** "teraz: cel czy unik" -- świadomość czy zmierzam do czegoś czy uciekam
+- **Promptowanie siebie:** "co sobie teraz powtarzasz?", "każda myśl kończy aktywacja stanu"
+- **Time-limiting:** "time limit everything", "calendar is just a time limiter for commitment"
+
+### Byk (Bull) -- z symboliki buddyjskiej zen
+Metafora z "dziesięciu obrazów ujeżdżania byka" zaadaptowana do pracy z wewnętrznym oporem:
+- **Nie walcz -- jedź:** "ride the bull", "mind synchro z bullem"
+- **Szacunek:** "be nice to your bull", "that negation - it's him"
+- **Integracja:** "Bull H+ daj challenge" -- byk jako źródło energii, nie wróg
+- **Rozpoznawanie:** "jak nie chce to przed czym broni?" -- opór jako informacja
+- **Sygnał:** "notice the bull" -- zauważ kiedy się pojawia
+
+### Tworzenie i agency
+- **"We are here to build"** -- tworzenie jako sens
+- **"What did you create today"** -- codzienne pytanie o tworzenie
+- **"Prove agency -- decide to take action"** -- agency przez decyzję
+- **"Remove constraints > force thru"** -- usuwaj bariery zamiast przebijać siłą
+- **"Satysfakcja po celowym wysiłku"** -- nagroda pochodzi z intencjonalnego działania, nie z przypadku
+- **"I see that's needed and do it"** -- widzieć potrzebę i działać = tworzenie
+- **"Humans are solution searchers and implementations (fixers)"** -- ludzie szukają rozwiązań i je wdrażają
+
+### Ojcostwo (Tomek)
+- **"Jakiego Tomka budujesz jutro"** -- świadomość wpływu na dziecko
+- **"Możesz mówić do myśli"** -- uczy syna pracy z umysłem
+- **"Tomek co wiesz o świecie / jakie są zasady świata"** -- dialog sokratejski z synem
+- **"Value & offspring"** -- wartość i potomstwo jako dwa filary
+- **"Które chwalisz ty a kt inni"** -- uczy rozróżniania wewnętrznej vs zewnętrznej walidacji

@@ -186,6 +186,63 @@
 - Czy dług jest nadal aktualny?
 - Co pozwoliło przetrwać te 5 lat depresji?
 
+## System promptowania siebie (z notatek bieżących)
+**Stan:** aktywny -- praktykowany codziennie, ewoluujący
+**Źródło:** plik `mems/prompty-codzienne.md` -- surowy zbiór mikro-promptów, technik, metafor
+**Kluczowe wnioski:**
+- Maciek zbudował sobie **system operacyjny jaźni** w formie tekstowej -- launch codes do stanów mentalnych
+- "Intencja to system prompt" -- fundamentalna metafora: umysł jako system do promptowania
+- "Jedyną walutą jest uwaga" -- zarządzanie uwagą jako core skill
+- "It's all stories" -- rzeczywistość jako narracja, można ją zmieniać
+- "Reagujemy nie do teraz, a do przeszłości" -- insight o reaktywności
+- "Jakikolwiek głos w głowie jest głosem w głowie" -- defuzja (ACT) odkryta samodzielnie
+- "Each new day is an opportunity to repeatedly things I like" -- codzienność jako praktyka
+- 4 tryby uwagi: dodawanie do przestrzeni, koncentracja, intencja (meta), budowanie przestrzeni
+- "Unfocus 2 focus" -- przejście przez rozproszenie do skupienia
+- "Teraz: cel czy unik" -- kluczowe pytanie diagnostyczne
+**Format:** fragmentaryczny, mix PL/EN, mikro-prompty -- nie dziennik, nie do czytania liniowo
+**Połączenia:**
+- Byk (Bull) = rozwinięta relacja z Cieniem, osobna sekcja w profilu
+- Tomek = wątek ojcowski -- uczy syna tego co sam odkrywa
+- Game Design = życie jako gra -- bossowie, questy, zasady
+- App/Bot Ideas = pomysły na produkty z tych technik
+**Otwarte pytania:**
+- Które z tych promptów naprawdę działają? Które są życzeniowe?
+- Czy jest tu hierarchia -- co jest fundamentem, a co nadbudową?
+- Jak to się ma do "Factorio z AI" -- czy te techniki to też "automaty do pakowania"?
+
+## Pomysły na produkty (z notatek bieżących)
+**Stan:** latentny -- surowe pomysły, nie rozpoczęte
+**Kluczowe pomysły:**
+- Bot do nakierowywania uwagi ("bot pomaga nakierować uwagę na qn")
+- AI które przerabia strach w challenge
+- Czytanie rysunków technicznych (→ Technolog CNC)
+- Tabele, oferty, zamówienia materiałowe, opis technologii
+- Kalendarz dostaw produkcyjnych
+- "Robo driven by intention" -- robot napędzany intencją
+- "Wygeneruj film możliwie motywujący" -- AI do generowania motywacji
+**Filozofia bota:** "Jeśli czegoś nie robisz to dlatego że nie wiesz co i jak robić albo masz opory emocjonalne lub fizyczne. Adres them."
+**Połączenia:**
+- Factorio z AI -- każdy pomysł to potencjalna linia produkcyjna
+- Technolog CNC jako MVP/pierwszy produkt
+
+## Filozofia Maćka (z notatek bieżących)
+**Stan:** ewoluujący -- zbierany na bieżąco
+**Kluczowe przekonania:**
+- "It's all stories" -- wszystko jest narracją
+- "Tylko rozpęd boli" -- ból jest w rozpędzeniu się, nie w sytuacji
+- "Pain is Higgs mass" -- ból nadaje masę (sens, ciężar) doświadczeniu
+- "Liczy się tylko utrzymanie rzeczywistości zgodnie ze swoim wymyślonym planem wyobraźnia"
+- "Prawda? Jak reaguje?" -- Byron Katie samodzielnie odkryta
+- "Building is fixing to desired outcome" -- budowanie to naprawianie w kierunku wizji
+- "Narzędzia są poza nami, ale zbudowaliśmy je żeby wyjść poza nasze ograniczenia"
+- "You become what you fascinated with" -- fascynacja kształtuje tożsamość
+**Obserwacje o AI:**
+- "Nature optimized generation, nature structured randomness"
+- "Ai can generate structures developed on random elements, few features"
+- "The more human designed parameters and features the more ai fails"
+- "Muza to moja ekspresja wyobraźni"
+
 ---
 
 - **2026-02-05 sesja 5** -- Temat: sesja hipnotyczna z 2020, szukanie połączeń z obecnymi tematami. Odkryliśmy:
