@@ -1,6 +1,6 @@
 # Maciek -- Profil
 
-Ostatnia aktualizacja: 2026-02-07 (sesja 8 - historia zawodowa, kontekst życiowy, SOR)
+Ostatnia aktualizacja: 2026-02-09 (sesja 9 - wizja sali audio, silnik pragnienia)
 
 ## Kim jestem
 
@@ -50,15 +50,15 @@ Dobry technicznie (komputery, AI), zmysł estetyczny. Lubi pomagać innym. Kop �
 
 **Przełom:** Obietnica "nie zostawię cię samego" zarezonowała (łza). To jest nowe upoważnienie - od siebie do siebie, zamiast od innych.
 
-**"Super małe coś swojego":** Jest przestrzeń która należy do Maćka, ale dopiero zaczyna nawiązywać kontakt z tym Maćkiem-właścicielem.
+**"Super małe coś swojego" → wizja sali audio:** To co było "małe coś swojego" wyrosło w konkretną wizję: sala odsłuchowa z systemem audio zbudowanym przez Maćka. 10-15 osób, drewno, akustyka. Dzień: wycieczki (szkolne, firmowe). Wieczór: wynajem dla audiofilów. Audio siedzi w nim od dziecka (synestezja, czuje muzykę w niskich tonach). "Moje, ale tak duże, że chciałbym się nim podzielić" -- dzielenie z pełności, nie z pustki.
 
 **Proszenie o pomoc:** Przełom somatyczny -- taśma od gardła do klatki (blokada proszenia) rozciągnięta przez spontaniczne TRE. Odkrycie: proszenie o pomoc = naturalny flow w obie strony, nie upokorzenie. Poprosił wszystkie znane postacie o pomoc -- ciepło i akceptacja.
 
-**Aligator wolny:** Symbole z wizji 2020 się transformowały. Aligator wyszedł z szafy, nalana energia w miękki brzuch, zaczął świecić. Mury domu się posypały. Stoi na wietrze -- trochę strasznie bo wszystko nowe, ale "można iść i odkrywać świat". Deszcz nie straszny -- jest aligatorem.
+**Aligator wolny i buduje:** Aligator wyszedł za mury, stoi na wietrze, i teraz wie co chce budować -- salę audio. Wizja z TRE (2026-02-09): najpierw poczucie połączenia z ludźmi (bez murów, promieniujący, ciepło), potem z tego wyrosła wizja sali. Aligator nie jest już tylko wolny -- ma kierunek i niecierpliwość.
 
 **Od lustra do kogoś kto wybiera:** Kiedyś widział siebie jako lustro (pasywne, tylko odbija potrzeby innych, nie ma swoich). Teraz: "wybieram ciekawe cechy i wzmacniam świadomie" -- to nie jest lustro, to ktoś kto decyduje. Maciek-właściciel.
 
-**Kierunek zawodowy:** "Factorio z AI" -- bierze problem, buduje automat z AI, pakuje w SaaS. Fabryka SaaS-ów. Pierwszy produkt: Technolog CNC (automatyczna wycena z rysunków technicznych). Blok sprzedażowy zelżał po sesji somatycznej (2026-02-03).
+**Kierunek zawodowy:** "Factorio z AI" (SaaS-y) = **środek** do celu. Cel = sala audio. Pierwszy SaaS: Technolog CNC. Blok sprzedażowy zelżał po sesji somatycznej (2026-02-03). Pojawił się silnik pragnienia -- niecierpliwość do budowania (2026-02-09).
 
 **Rytuał:** codzienny wieczorny check-in 10 min (ustalony 2026-02-06).
 

@@ -141,8 +141,31 @@
 - Czy "upokorzenie" wróci w realnej sytuacji, czy taśma naprawdę puściła?
 - Kogo konkretnie poprosić o pomoc? Z czym?
 
+## Wizja: Sala Audio
+**Stan:** aktywny -- wizja wyłoniła się z TRE (2026-02-09)
+**Kluczowe wnioski:**
+- Audio siedzi w Maćku od dziecka -- synestezja (widzi muzykę), czuje niskie tony w ciele (kinestetyk). Rdzeń, nie hobby (2026-02-09)
+- Wizja kiełkowała od roku jako "budowa komponentów / miejsce dla innych". Po sesjach coachingowych otworzyła się na "także dla siebie" (2026-02-09)
+- Sala: 10-15 osób, dużo drewna, wygłuszenie akustyczne, system kolumn zbudowany przez Maćka (2026-02-09)
+- Dzień: wycieczki (szkolne, firmowe, cokolwiek) -- otwieranie ludzi na doznanie. Wieczór: wynajem dla audiofilów (2026-02-09)
+- "Moje, ale tak duże, że chciałbym się nim podzielić" -- dzielenie z pełności, nie z pustki. Odwrotność starego wzorca (2026-02-09)
+- Na twarzach ludzi: "niedowierzanie, zaskoczenie" -- chce dawać to doświadczenie "wow" (2026-02-09)
+- **Sekwencja z TRE:** złość na Olę → przetwarzanie warstw → poczucie połączenia z ludźmi (bez murów, promieniujący, ciepło, bycie widzianym) → wizja sali. Wizja wyrosła z poczucia połączenia (2026-02-09)
+- Łzy + uśmiech kiedy widział ludzi bez murów, promieniujących. Głębokie przeżycie (2026-02-09)
+- Pojawił się **silnik pragnienia** -- niecierpliwość. Ten sam silnik który nie odpalał "dla siebie" teraz działa (2026-02-09)
+**Połączenia:**
+- Łączy WSZYSTKO: budowanie (inżynier), estetykę, technikę, dzielenie się, ludzi
+- SaaS-y / Factorio z AI = środek finansowy. Sala = cel
+- "Dzielić się blaskiem, nie ostatnią koszulą" -- dosłowna realizacja
+- Aligator wolny i wie co chce budować
+**Otwarte pytania:**
+- Jakie konkretne kroki do sali? Lokalizacja, budżet, timeline?
+- Jak wygląda model biznesowy? Wycieczki + wynajem = wystarczy?
+- Czy zna ludzi ze świata audio z którymi mógłby to budować?
+- Jak połączyć pracę nad SaaS-ami z przygotowaniami do sali?
+
 ## Kierunek zawodowy: Factorio z AI
-**Stan:** aktywny -- świeży wgląd, do rozwijania
+**Stan:** aktywny -- środek do celu (sala audio)
 **Kluczowe wnioski:**
 - Kop życiowy: **materializowanie wizji** -- plan → rzeczywistość. To jest moment który daje największą satysfakcję (2026-02-06)
 - Historia: budowa maszyn i systemów zrobotyzowanych -- tam spotykało się wszystko: technika + estetyka + puzzle + pomaganie (2026-02-06)
@@ -281,3 +304,14 @@
   - "Factorio z AI" -- budować automaty z AI, pakować w SaaS-y. Fabryka SaaS-ów
   - Chce pracować z ważnymi ludźmi, budować infrastrukturę
   - **RYTUAŁ:** codzienny wieczorny check-in 10 min
+- **2026-02-09 sesja 9** -- Temat: wizja z TRE. Maciek opowiedział o wczorajszej sesji TRE/stretching. Odkryliśmy:
+  - TRE przejęło stretching, spokojne ruchy jak gimnastyka, ale co pozycja inne myśli
+  - Sekwencja: złość na Olę → inne sprawy (nie pamięta) → poczucie połączenia z ludźmi → wizja sali audio
+  - **KLUCZOWE:** zanim pojawiła się wizja sali, najpierw poczuł że nie jest sam -- bliscy ludzie stali obok, promieniowali, bez murów, ciepło i serdeczność. Łzy + uśmiech
+  - **WIZJA:** sala odsłuchowa, 10-15 osób, drewno, akustyka, system kolumn zbudowany przez Maćka. Dzień: wycieczki. Wieczór: wynajem dla audiofilów
+  - Audio od dziecka, synestezja, czuje muzykę w niskich tonach. Rdzeń tożsamości
+  - Wizja kiełkowała od roku (komponenty, dla innych) -- po sesjach otworzyła się na "także dla mnie"
+  - "Moje, ale tak duże, że chciałbym się nim podzielić" -- odwrotność starego wzorca oddawania
+  - SaaS-y = droga finansowa. Sala = cel
+  - Pojawił się silnik pragnienia -- niecierpliwość. "Utwierdzenie w przekonaniu że to dobra droga"
+  - **ŁUK SESJI 1-9:** pusty, na kolanach → fasolka/głos rodzica → trauma z mamą → brak relacji ze sobą → "nie zostawię cię" → lustro→wybierający → proszenie o pomoc → aligator wolny → aligator wie co chce budować i ma energię do tego
