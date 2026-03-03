@@ -74,8 +74,8 @@
 - Czy da się być lustrem I mieć własne potrzeby? Czy to się wyklucza?
 - Co by wzmacniał gdyby świadomie wybierał?
 
-## Blok sprzedażowy -- dzwonienie do klientów CNC
-**Stan:** aktywny -- przełom, do obserwacji
+## Blok sprzedażowy -- kontakt z ludźmi w kontekście zarobkowym
+**Stan:** aktywny -- kolejny przełom IFS (2026-03-03)
 **Kluczowe wnioski:**
 - Blok wygląda na nawykowy ("emocje wyczyszczone przez TRE") ale pod pustką siedzi rozpacz/żal/strach (2026-02-03)
 - "Być albo nie być" -- stawka zrównana z przetrwaniem, nie z biznesem (2026-02-03)
@@ -93,6 +93,9 @@
 - Wzorzec: buduje → angażuje się → ludzie odchodzą → zostaje sam z gruzami (= powtórzenie "to jest beznadziejne"?)
 - TRE samo w sobie nie wystarczy -- potrzebuje kontekstu emocjonalnego żeby trafić w sedno. Kiedy emocja została nazwana, ciało samo wiedziało co zrobić
 - **Klucz do odblokowania:** nie próbować otwierać pustki siłą, tylko ją opisywać (kształt, lokalizacja, głos) -- wtedy sama się otwiera
+- **NAFAFA (IFS, 2026-03-03):** Praca metodą Schwartza. Pod chaosem myśli (biały szum menedżera) siedział ośmiolatek -- zbuntowany, "bo nie." Nie chciał mówić, nie chciał kontaktu. Pod buntem: ogromna złość, zaciśnięte pięści, krzyk, płacz. Pretensje do Maćka: "bo mnie zostawiłeś." Przemiany: ośmiolatek → krzyczący potwór (rozmiar bólu) → srebrna ryba (po byciu widzianym). Groźba: "jak mnie znów zostawisz, zrobię ci krzywdę" (= desperacja, nie agresja). Maciek z pozycji Self: "jestem Ja, nie możesz mnie terroryzować, bo jesteś moją częścią. Potrzebuję cię. Udało ci się -- 37 lat tak skuteczny że padłem na kolana. Wystarczy." Nafafa dostał nową rolę: pomagać i dawać energię zmierzając do sukcesu (zamiast chronić). Warunek: Maciek się o niego troszczy. "Może być" -- ośmioletnia zgoda. Siedzi z lewej strony klatki piersiowej. Imię "Nafafa" od pociągania katarem z nosa
+- **Po sesji:** wyobrażenie kontaktu z ludźmi = "nie tak strasznie"
+- **POŁĄCZENIE:** Nafafa chronił przed tym samym co fasolka (odrzucenie/ocena), ale inaczej: fasolka = zamrożony ból ("beznadziejne"), Nafafa = aktywna obrona (chaos, rozpraszanie, inne zadania). Fasolka po prawej, Nafafa po lewej stronie klatki piersiowej
 
 ## Historia sesji
 - **2026-02-03 sesja 1** -- Temat: blok przed dzwonieniem. Dotarliśmy do: pustka jako tarcza, zrównanie produktu z tożsamością, wzorzec porzucenia, "być albo nie być". Sesja przerwana -- otwarte pytanie: "czego nie chcesz poczuć?"
@@ -315,3 +318,17 @@
   - SaaS-y = droga finansowa. Sala = cel
   - Pojawił się silnik pragnienia -- niecierpliwość. "Utwierdzenie w przekonaniu że to dobra droga"
   - **ŁUK SESJI 1-9:** pusty, na kolanach → fasolka/głos rodzica → trauma z mamą → brak relacji ze sobą → "nie zostawię cię" → lustro→wybierający → proszenie o pomoc → aligator wolny → aligator wie co chce budować i ma energię do tego
+- **2026-03-03 sesja 10** -- Temat: blok przed kontaktem z ludźmi w kontekście zarobkowym. Praca IFS (Schwartz). Odkryliśmy:
+  - Strażak daje inne zadania za każdym razem gdy Maciek ma podejść do kogoś z czymś zarobkowym
+  - Nie chodzi o pieniądze -- chodzi o bycie ocenionym i odrzuconym. "Nie wiem co dalej" jeśli powiedzą nie
+  - Pod chaosem myśli (biały szum menedżera): zbuntowany ośmiolatek "bo nie"
+  - Maciek patrzył z rozbawienia i ciekawości (Self energy) → ośmiolatek nie chciał mówić → "zostaw mnie" → pretensje "bo mnie zostawiłeś"
+  - Ból przebił się jak przez papier → krzyczący potwór (kłapiący zębami) → srebrna ryba (po byciu widzianym)
+  - Groźba: "jak znów zostawisz, zrobię ci krzywdę" = desperacja
+  - Maciek z Self: "jestem Ja, potrzebuję cię, 37 lat byłeś skuteczny, wystarczy"
+  - Nowa rola: pomaganie i dawanie energii. Warunek: troska
+  - Imię: Nafafa (od pociągania katarem). Lewa strona klatki piersiowej
+  - **PRZEŁOM:** po sesji kontakt z ludźmi = "nie tak strasznie"
+  - Nafafa poprosił o przytulanie → Maciek przytulił → spontaniczne TRE (kciuk wbity w miejsce, ruchy jak czochranie psa). Nafafa reagował radością, łaskotki, uśmiech. Ciało znów samo wiedziało co robić
+  - **Troska o Nafafę = fizyczna:** przytulać, czochrać to miejsce po lewej stronie klatki
+  - **ŁUK SESJI 1-10:** ...→ aligator buduje → Nafafa (IFS: strażak→pomocnik, troska fizyczna)

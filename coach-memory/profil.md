@@ -1,6 +1,6 @@
 # Maciek -- Profil
 
-Ostatnia aktualizacja: 2026-02-09 (sesja 9 - wizja sali audio, silnik pragnienia)
+Ostatnia aktualizacja: 2026-03-03 (sesja 10 - Nafafa, praca IFS z częściami)
 
 ## Kim jestem
 
@@ -59,6 +59,12 @@ Dobry technicznie (komputery, AI), zmysł estetyczny. Lubi pomagać innym. Kop �
 **Od lustra do kogoś kto wybiera:** Kiedyś widział siebie jako lustro (pasywne, tylko odbija potrzeby innych, nie ma swoich). Teraz: "wybieram ciekawe cechy i wzmacniam świadomie" -- to nie jest lustro, to ktoś kto decyduje. Maciek-właściciel.
 
 **Kierunek zawodowy:** "Factorio z AI" (SaaS-y) = **środek** do celu. Cel = sala audio. Pierwszy SaaS: Technolog CNC. Blok sprzedażowy zelżał po sesji somatycznej (2026-02-03). Pojawił się silnik pragnienia -- niecierpliwość do budowania (2026-02-09).
+
+**Nafafa (IFS, sesja 10):** Ośmiolatek -- menedżer/strażak, który przez 37 lat robił chaos w głowie (biały szum, rozpraszające zadania) za każdym razem gdy Maciek miał podejść do drugiego człowieka z czymś zarobkowym. Chronił przed byciem ocenionym i odrzuconym ("nie wiem co dalej"). Pretensje do Maćka: "bo mnie zostawiłeś." Przemiany: ośmiolatek zbuntowany → krzyczący potwór (ból) → srebrna ryba. Nowa umowa: Nafafa pomaga i daje energię zmierzając do sukcesu, Maciek się o niego troszczy i nie zostawia. Siedzi z lewej strony klatki piersiowej. Imię od pociągania katarem z nosa. **Troska = fizyczna:** przytulanie, czochranie (kciuk wbity w miejsce po lewej, ruchy jak czochranie psa). Spontaniczne TRE po przytuleniu. Nafafa reaguje radością -- łaskotki, uśmiech.
+
+**Bóle głowy:** rozwiązane, ale zajęło 2 tygodnie (luty 2026). Dopiero wraca do siebie.
+
+**Terapia par:** spotkania z Olą u terapeuty par (do rozmowy w przyszłej sesji).
 
 **Rytuał:** codzienny wieczorny check-in 10 min (ustalony 2026-02-06).
 
