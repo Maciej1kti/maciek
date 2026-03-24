@@ -1,6 +1,6 @@
 # Maciek -- Profil
 
-Ostatnia aktualizacja: 2026-03-03 (sesja 10 - Nafafa, praca IFS z częściami)
+Ostatnia aktualizacja: 2026-03-24 (sesja 11 - Część 9: szczur-strażnik, wstyd ciała z dzieciństwa)
 
 ## Kim jestem
 
@@ -61,6 +61,12 @@ Dobry technicznie (komputery, AI), zmysł estetyczny. Lubi pomagać innym. Kop �
 **Kierunek zawodowy:** "Factorio z AI" (SaaS-y) = **środek** do celu. Cel = sala audio. Pierwszy SaaS: Technolog CNC. Blok sprzedażowy zelżał po sesji somatycznej (2026-02-03). Pojawił się silnik pragnienia -- niecierpliwość do budowania (2026-02-09).
 
 **Nafafa (IFS, sesja 10):** Ośmiolatek -- menedżer/strażak, który przez 37 lat robił chaos w głowie (biały szum, rozpraszające zadania) za każdym razem gdy Maciek miał podejść do drugiego człowieka z czymś zarobkowym. Chronił przed byciem ocenionym i odrzuconym ("nie wiem co dalej"). Pretensje do Maćka: "bo mnie zostawiłeś." Przemiany: ośmiolatek zbuntowany → krzyczący potwór (ból) → srebrna ryba. Nowa umowa: Nafafa pomaga i daje energię zmierzając do sukcesu, Maciek się o niego troszczy i nie zostawia. Siedzi z lewej strony klatki piersiowej. Imię od pociągania katarem z nosa. **Troska = fizyczna:** przytulanie, czochranie (kciuk wbity w miejsce po lewej, ruchy jak czochranie psa). Spontaniczne TRE po przytuleniu. Nafafa reaguje radością -- łaskotki, uśmiech.
+
+**Część 9 -- szczur-strażnik (IFS, sesja 11):** Agresywny szczur z kłapiącymi zębami, wołał "kłamiesz, chuju." Nie chodziło o drobne kłamstwa (choć Maciek przyznał że czasem kłamie -- mówi ludziom że coś się wydarzyło zanim to się stało, "kupuje czas"). Wielkie kłamstwo = "kocham cię" do siebie. Szczur strzegł wspomnienia z dzieciństwa: eksploracja ciała z drugim chłopakiem (~5-10 lat), chłopak zareagował niesmkiem i odrzuceniem → 35 lat wstydu "jestem pojebany." Przemiany: agresywny szczur → zbity pies w kapeluszu (gdy Maciek przyznał prawdę) → rozpłynął się gdy światło weszło w ciemność. Leczenie: głos "głuptasie" (ciepły kobiecy) + wspomnienie pierwszej partnerki (otwartość, akceptacja) → "ciekawość nie jest pojebana, otwartość to otwartość." Dzieciak ożył, chce wyruszać na wyprawę. "Kocham cię" -- mniej kłamstwo, ale nie w pełni czyste. **Wstyd ciała blokuje wizytę u lekarza** (problem z odbytem po rowerze -- dokładnie to samo miejsce co wstyd z dzieciństwa).
+
+**Integracja części IFS:** Maciek samodzielnie zintegrował 8 części (1-8c, gdzie 8 związana z Olą). Część 9 przepracowana w sesji 11. Praca z TRE + wizualizacja + dialog.
+
+**Niesmak do Oli:** pojawił się w trakcie sesji -- kpina podczas praktyk seksualnych, brak komfortu. Maciek: "to jej problemy, ja nie zwiniłem." Do pogłębienia w kolejnej sesji.
 
 **Bóle głowy:** rozwiązane, ale zajęło 2 tygodnie (luty 2026). Dopiero wraca do siebie.
 

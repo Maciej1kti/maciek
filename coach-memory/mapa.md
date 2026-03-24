@@ -75,7 +75,7 @@
 - Co by wzmacniał gdyby świadomie wybierał?
 
 ## Blok sprzedażowy -- kontakt z ludźmi w kontekście zarobkowym
-**Stan:** aktywny -- kolejny przełom IFS (2026-03-03)
+**Stan:** aktywny -- trzeci przełom IFS (2026-03-24, część 9: wstyd ciała)
 **Kluczowe wnioski:**
 - Blok wygląda na nawykowy ("emocje wyczyszczone przez TRE") ale pod pustką siedzi rozpacz/żal/strach (2026-02-03)
 - "Być albo nie być" -- stawka zrównana z przetrwaniem, nie z biznesem (2026-02-03)
@@ -96,6 +96,9 @@
 - **NAFAFA (IFS, 2026-03-03):** Praca metodą Schwartza. Pod chaosem myśli (biały szum menedżera) siedział ośmiolatek -- zbuntowany, "bo nie." Nie chciał mówić, nie chciał kontaktu. Pod buntem: ogromna złość, zaciśnięte pięści, krzyk, płacz. Pretensje do Maćka: "bo mnie zostawiłeś." Przemiany: ośmiolatek → krzyczący potwór (rozmiar bólu) → srebrna ryba (po byciu widzianym). Groźba: "jak mnie znów zostawisz, zrobię ci krzywdę" (= desperacja, nie agresja). Maciek z pozycji Self: "jestem Ja, nie możesz mnie terroryzować, bo jesteś moją częścią. Potrzebuję cię. Udało ci się -- 37 lat tak skuteczny że padłem na kolana. Wystarczy." Nafafa dostał nową rolę: pomagać i dawać energię zmierzając do sukcesu (zamiast chronić). Warunek: Maciek się o niego troszczy. "Może być" -- ośmioletnia zgoda. Siedzi z lewej strony klatki piersiowej. Imię "Nafafa" od pociągania katarem z nosa
 - **Po sesji:** wyobrażenie kontaktu z ludźmi = "nie tak strasznie"
 - **POŁĄCZENIE:** Nafafa chronił przed tym samym co fasolka (odrzucenie/ocena), ale inaczej: fasolka = zamrożony ból ("beznadziejne"), Nafafa = aktywna obrona (chaos, rozpraszanie, inne zadania). Fasolka po prawej, Nafafa po lewej stronie klatki piersiowej
+- **CZĘŚĆ 9 -- SZCZUR-STRAŻNIK (IFS, 2026-03-24):** Stary, zakopany. Pojawia się gdy Maciek ma zrobić coś prowadzącego do kontaktu z drugim człowiekiem w kontekście zarobkowym → prokrastynacja. Wołał "kłamiesz, chuju." Wielkie kłamstwo = "kocham cię" do siebie. Strzegł wspomnienia: eksploracja ciała z drugim chłopakiem (~5-10 lat), reakcja niesmaku i odrzucenia → 35 lat wstydu "jestem pojebany." Loop: szczur blokuje pracę → Maciek kłamie żeby ukryć → szczur mówi "kłamca" → blokuje mocniej. Przemiany: agresywny szczur → zbity pies (gdy Maciek przyznał prawdę) → rozpłynął się w świetle. Leczenie: kobiecy głos "głuptasie" + wspomnienie pierwszej partnerki (otwartość, akceptacja, brak oceny). Insight: "ciekawość nie jest pojebana, otwartość to otwartość", "to jej problemy [Oli kpina], ja nie zwiniłem." Dzieciak ożył, chce wyruszać na wyprawę. "Kocham cię" -- mniej kłamstwo, ale nie w pełni czyste
+- **WSTYD CIAŁA → LEKARZ:** wstyd o odbyt z dzieciństwa blokuje wizytę u lekarza z realnym problemem (rower). Szczur potwierdził połączenie
+- **TRZY WARSTWY BLOKU:** (1) fasolka/głos rodzica "beznadziejne" (prawa pierś), (2) Nafafa/chaos-strażnik (lewa pierś), (3) szczur/wstyd ciała "kłamca" (splot słoneczny → gardło). Wszystkie trzy chroniły przed kontaktem z ludźmi w kontekście zarobkowym, każda z innej strony
 
 ## Historia sesji
 - **2026-02-03 sesja 1** -- Temat: blok przed dzwonieniem. Dotarliśmy do: pustka jako tarcza, zrównanie produktu z tożsamością, wzorzec porzucenia, "być albo nie być". Sesja przerwana -- otwarte pytanie: "czego nie chcesz poczuć?"
@@ -332,3 +335,19 @@
   - Nafafa poprosił o przytulanie → Maciek przytulił → spontaniczne TRE (kciuk wbity w miejsce, ruchy jak czochranie psa). Nafafa reagował radością, łaskotki, uśmiech. Ciało znów samo wiedziało co robić
   - **Troska o Nafafę = fizyczna:** przytulać, czochrać to miejsce po lewej stronie klatki
   - **ŁUK SESJI 1-10:** ...→ aligator buduje → Nafafa (IFS: strażak→pomocnik, troska fizyczna)
+- **2026-03-24 sesja 11** -- Temat: część 9 -- szczur-strażnik. Maciek samodzielnie zintegrował 8 części między sesjami (z TRE). Część 9 = stary, zakopany, pojawia się przy kontakcie zarobkowym → prokrastynacja. Odkryliśmy:
+  - Szczur agresywny: kłapiące zęby, syczy, "kłamiesz, chuju"
+  - Maciek przyznał: czasem kłamie (mówi ludziom że coś się wydarzyło zanim to się stało, kupuje czas)
+  - Wielkie kłamstwo = "kocham cię" do siebie. Szczur: "kocham cię -- kłamstwo"
+  - Gdy Maciek przyznał "jestem kłamcą manipulatorem" → głos złagodniał, szczur zmienił się w zbitego psa w kapeluszu
+  - Pozwolił zajrzeć w ciemność za sobą. Sam się bał tego co tam jest
+  - Wspomnienie z dzieciństwa: eksploracja ciała z drugim chłopakiem (~5-10 lat). Chłopak zareagował niesmkiem → "może jestem pojebany"
+  - Niesmak internalizowany → glut jak smoła w splocie słonecznym, zapach fajek
+  - Kobiecy głos "głuptasie" (pieszczotliwie) → reframe z "pojebany" na "durna pała" z uśmiechem
+  - Wspomnienie pierwszej partnerki: otwartość, akceptacja, brak oceny → "można się kochać, być kochanym, być akceptowanym"
+  - Kontrast z Olą: kpina podczas praktyk seksualnych → "to jej problemy, ja nie zwiniłem"
+  - Wstyd ciała blokuje wizytę u lekarza (problem z odbytem po rowerze)
+  - Dzieciak ożył, chce na wyprawę. Mrok ustąpił. Brak TRE tym razem
+  - "Kocham cię" -- mniej kłamstwo ale nie w pełni czyste
+  - **DO KONTYNUACJI:** niesmak do Oli, wizyta u lekarza
+  - **ŁUK SESJI 1-11:** ...→ Nafafa → Część 9 (szczur: wstyd ciała → "ciekawość to nie pojebanie" → "można być kochanym")
