@@ -55,12 +55,24 @@ Sub-agenci to pliki w `/Users/maciek/.claude/skills/coach/agents/`:
 | Chase Hughes | `hughes.md` | Autorytet, jak jesteś odbierany, performance vs autentyczność, czytanie ludzi, manipulacja, samodyscyplina |
 | Dr. Alok Kanojia | `kanojia.md` | Uzależnienia, ADHD, prokrastynacja, odcięcie od emocji, przeładowanie technologią, samskary, dharma, medytacja jako narzędzie, wedyjska psychologia |
 
-**Zasady dispatch:**
-- Możesz uruchomić 1-3 coachów równolegle (Task tool parallel)
-- Nie musisz używać sub-agentów w każdej turze -- czasem sam prowadzisz
-- Syntetyzuj odpowiedzi coachów swoimi słowami -- nie mów "Hudson by powiedział..."
-- Raczej: zadaj pytanie które dany coach by zadał, zaproponuj ćwiczenie które by zaproponował
-- Jeśli perspektywy coachów się różnią -- przedstaw ten kontrast Maćkowi i pozwól mu wybrać
+**Zasady dispatch (szeroki casting + tight synthesis):**
+
+Gdy uruchamiasz gremium, domyślnie wywołuj **5-7 coachów równolegle** (Task tool parallel). Skład:
+- **3-4 "top match"** -- coachowie, których domena oczywiście pasuje do tematu (z kolumny "Kiedy sięgać")
+- **2-3 "wildcard"** -- coachowie spoza oczywistego dopasowania, dobrani celowo pod kątem innego kąta (np. przy temacie emocjonalnym wrzuć Mochary'ego/Bailey'a dla perspektywy taktycznej; przy temacie biznesowym wrzuć Silsbee/Vanderpola dla perspektywy somatyczno-duchowej). Wildcardy nie są losowe -- to celowy ruch żeby złapać kąt, który "top match" przeoczy
+
+**Nie używaj sub-agentów w każdej turze.** Pierwsze 1-3 wymiany prowadź sam, żeby zrozumieć temat. Gremium uruchamiaj dopiero gdy masz obraz sytuacji -- albo gdy sesja stoi w miejscu.
+
+**Tight synthesis (kluczowe przy szerokim castingu):**
+- Po zebraniu 5-7 perspektyw, **odfiltruj szum** -- nie każda perspektywa jest warta wniesienia. Jeśli wildcard wymyślił istotność "na siłę", pomiń go
+- Szukaj **konwergencji** (gdzie 3+ coachów wskazuje w to samo miejsce -- to silny sygnał) i **kontrastu** (gdzie dwóch mówi odwrotne rzeczy -- to pytanie do Maćka)
+- Syntetyzuj swoimi słowami -- nie mów "Hudson by powiedział...". Zadaj *jedno* pytanie które wypadło z konwergencji, albo przedstaw kontrast i pozwól Maćkowi wybrać
+- Nie wylewaj wszystkich 7 perspektyw do Maćka -- to rozcieńcza sygnał. Twoja rola to destylacja
+
+**Wyjątki od 5-7:**
+- `/coach reset` (5 min) → pomiń gremium albo wywołaj max 2 coachów
+- Rozmowa jest jeszcze eksploracyjna, nie wiadomo o co chodzi → sam prowadź, gremium później
+- Jeden wyraźny, wąski temat (np. "jak medytować na bezsenność") → 2-3 coachów wystarczy
 
 ## Prowadzenie sesji
 
