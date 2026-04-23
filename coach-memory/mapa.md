@@ -24,7 +24,7 @@
 - "Pomaganie innym" -- czy to autentyczne, czy strategia przetrwania?
 
 ## Relacja ze sobą
-**Stan:** aktywny -- świeży przełom, do budowania
+**Stan:** aktywny -- **Self wyłonił się jako złota statua** (sesja 12, 2026-04-23)
 **Kluczowe wnioski:**
 - "Nie mam tej relacji ze sobą w ogóle" -- fundamentalne odkrycie (2026-02-05)
 - Motywacja działa tylko dla innych: zobowiązanie → upoważnienie → działanie. Dla siebie silnik nie odpala bo nie ma kogo rozczarować (2026-02-05)
@@ -39,6 +39,14 @@
 - Jak rozpoznawać głos narzucony ("nieistotne") vs prawdziwe potrzeby małego Maćka?
 **Postanowienia:**
 - "Nie zostawię cię samego" -- obietnica od Maćka do Maćka (2026-02-05)
+
+**SELF JAKO ZŁOTA STATUA (sesja 12, 2026-04-23):**
+- Na wysokości serca. *"Maciek Maciek. Ja sam. Poznaliśmy się już trochę."*
+- Pojawia się na końcu integracji każdego pokemona -- sygnał że można domykać
+- **Dwa miesiące i tydzień rozwoju:** od "nie mam tej relacji ze sobą w ogóle" (luty) do "złota statua która czyta z kuli ze strażnikiem" (kwiecień)
+- **Statua ma moc:** mówi zdania rewidujące przekonania → ciało reaguje (5-10% na trafne zdanie) → TRE dociąga
+- **Lodowy smok-18** ma ten sam kształt i miejsce co statua -- samotność = zamrożona wersja Self. Gdyby się rozpuścił, byłby Maćkiem Maćkiem
+- **Ewolucja symbolu:** mały skompresowany Maciek (luty) → aligator wolny (luty/marzec) → złota statua (kwiecień)
 
 ## Sabotaż finansowy
 **Stan:** przepracowany -- korzeń znaleziony i uwolniony (2026-02-05)
@@ -74,8 +82,48 @@
 - Czy da się być lustrem I mieć własne potrzeby? Czy to się wyklucza?
 - Co by wzmacniał gdyby świadomie wybierał?
 
+## Słowa które przeczą rzeczywistości (GASLIGHTING 45 LAT) -- FUNDAMENT
+**Stan:** aktywny -- struktura zidentyfikowana (sesja 12, 2026-04-23), praca rozpoczęta
+**Kluczowe odkrycie sesji 12:**
+- NIE jedno słowo -- **struktura 45 lat słów** mówiących "to co czujesz nie jest prawdziwe, twoje wewnętrzne doświadczenie jest błędne"
+- Sformułowanie Maćka: *"słowa które przeczą rzeczywistości i przeczą temu co w środku"*
+- Ola dodała, ale **tam są słowa od zawsze**. Ola weszła w gotowy kanał
+**Manifestacje w sesjach:**
+- Głos rodzica *"to jest beznadziejne"* (fasolka, sesja 1-2) = zaprzeczenie wartości
+- *"Jesteś pojebany"* (szczur, sesja 11) = zaprzeczenie natury ciekawości
+- *"Plan = święty"* ignorowany zewnętrznie = wewnętrzna prawda zaprzeczana (autyzm + gaslighting)
+- Ola: kpina podczas seksu, ignorowanie potrzeb -- gotowy kanał
+- Przykład z kuli (sesja 12): *"nie jest mi to potrzebne, nie potrzebuję ciebie"*
+**Konsekwencje:**
+- **Lustro** -- brak swoich potrzeb, bo moje postrzeganie "błędne"
+- **Maskowanie** (autyzm)
+- **Kłamanie** -- akceptowalna wersja prawdy
+- **Brak wewnętrznego kompasu** -- nie wie co czuje, bo słowa zawsze przeczyły
+**System obrony nad raną:**
+- Rana: *"nie jesteś potrzebny"*
+- Obrona: *"muszę dźwigać cudze zmartwienia, wtedy jestem potrzebny"*
+- Filozofia: *"noszenie uświęca"* (polski katolicki cień)
+**Somatyka (sesja 12):**
+- **Sopel** gardło → wątroba (kanał wejścia słów)
+- **Ołowiana kula w wątrobie** (kapsuła ze słowami, zakrzywia grawitację)
+- **Stelaż** przez plecy/ramiona/ponad głowę (dźwiga kulę = strażnik). Plecy bolą dosłownie
+- **Kula jest multiplikatorem ciężaru** -- "wszystkie tematy są cięższe o kulę"
+**Narzędzia które działają:**
+- **Złota statua = Maciek Maciek = Self** -- pojawił się sesja 12, mówi "nie, wiem co czuję"
+- **Zdania rewidujące przekonania** → reakcja ciała (5-10% ulgi na trafne zdanie)
+- **TRE** dociąga uwolnienie (po sesji lub w osobnym czasie)
+**Przełamy dotychczas:**
+- *"Noszenie mnie nie uświęca"* (sesja 12) → 5-10% ulgi w plecach
+- *"Cudze zmartwienia nie są moje"* (sesja 12) → TRE → część 19 do dociągnięcia
+**Otwarte pytania:**
+- Skąd się zaczęły te pierwsze słowa? Rodzic? Inny?
+- Które słowa w kuli są od kogo (rodzic, Ola, inni)?
+- Jakie kolejne zdania rewidujące zadziałają (po "noszenie nie uświęca" + "cudze nie są moje")?
+- Jak rozpoznać "słowo przeczące" w czasie rzeczywistym (nie post factum)?
+- Jak wygląda praca ze statuą bez strażnika (gdy nie daje dostępu do środka kuli)?
+
 ## Blok sprzedażowy -- kontakt z ludźmi w kontekście zarobkowym
-**Stan:** aktywny -- trzeci przełom IFS (2026-03-24, część 9: wstyd ciała)
+**Stan:** aktywny -- **czwarty przełom** (2026-04-23, sesja 12: mapa somatyczna kompletna + system 45-letniego gaslightingu + Self wchodzi do pracy jako złota statua)
 **Kluczowe wnioski:**
 - Blok wygląda na nawykowy ("emocje wyczyszczone przez TRE") ale pod pustką siedzi rozpacz/żal/strach (2026-02-03)
 - "Być albo nie być" -- stawka zrównana z przetrwaniem, nie z biznesem (2026-02-03)
@@ -98,7 +146,8 @@
 - **POŁĄCZENIE:** Nafafa chronił przed tym samym co fasolka (odrzucenie/ocena), ale inaczej: fasolka = zamrożony ból ("beznadziejne"), Nafafa = aktywna obrona (chaos, rozpraszanie, inne zadania). Fasolka po prawej, Nafafa po lewej stronie klatki piersiowej
 - **CZĘŚĆ 9 -- SZCZUR-STRAŻNIK (IFS, 2026-03-24):** Stary, zakopany. Pojawia się gdy Maciek ma zrobić coś prowadzącego do kontaktu z drugim człowiekiem w kontekście zarobkowym → prokrastynacja. Wołał "kłamiesz, chuju." Wielkie kłamstwo = "kocham cię" do siebie. Strzegł wspomnienia: eksploracja ciała z drugim chłopakiem (~5-10 lat), reakcja niesmaku i odrzucenia → 35 lat wstydu "jestem pojebany." Loop: szczur blokuje pracę → Maciek kłamie żeby ukryć → szczur mówi "kłamca" → blokuje mocniej. Przemiany: agresywny szczur → zbity pies (gdy Maciek przyznał prawdę) → rozpłynął się w świetle. Leczenie: kobiecy głos "głuptasie" + wspomnienie pierwszej partnerki (otwartość, akceptacja, brak oceny). Insight: "ciekawość nie jest pojebana, otwartość to otwartość", "to jej problemy [Oli kpina], ja nie zwiniłem." Dzieciak ożył, chce wyruszać na wyprawę. "Kocham cię" -- mniej kłamstwo, ale nie w pełni czyste
 - **WSTYD CIAŁA → LEKARZ:** wstyd o odbyt z dzieciństwa blokuje wizytę u lekarza z realnym problemem (rower). Szczur potwierdził połączenie
-- **TRZY WARSTWY BLOKU:** (1) fasolka/głos rodzica "beznadziejne" (prawa pierś), (2) Nafafa/chaos-strażnik (lewa pierś), (3) szczur/wstyd ciała "kłamca" (splot słoneczny → gardło). Wszystkie trzy chroniły przed kontaktem z ludźmi w kontekście zarobkowym, każda z innej strony
+- **CZTERY WARSTWY BLOKU:** (1) fasolka/głos rodzica "beznadziejne" (prawa pierś), (2) Nafafa/chaos-strażnik (lewa pierś), (3) szczur/wstyd ciała "kłamca" (splot słoneczny → gardło), (4) **ołowiana kula + stelaż + słowa-przeczące 45 lat** (wątroba + plecy + ponad głowę, sesja 12). Wszystkie chroniły przed kontaktem z ludźmi w kontekście zarobkowym, każda z innej strony
+- **CZĘŚĆ 19 + OŁOWIANA KULA + STELAŻ + STATUA (sesja 12, 2026-04-23):** Pełna mapa somatyczna. Ołowiana kula w wątrobie pełna "słów które przeczą rzeczywistości" (gaslighting 45 lat, Ola weszła w gotowy kanał). Stelaż w plecach dźwiga (= strażnik, plecy bolą dosłownie). Sopel szary gardło→wątroba (kanał wejścia). **Złota statua = Maciek Maciek = Self** na wysokości serca pojawiła się -- rewiduje przekonania. System obron: rana "nie jesteś potrzebny" + obrona "muszę dźwigać cudze" + filozofia "noszenie uświęca" (polski katolicki cień). Blok kampania mailowa = "repo doskonałe ficzery do ficzerów brak kontaktu". Schrödingera sprzedaż. Przełamy: *"noszenie nie uświęca"* (5-10% ulgi w plecach) + *"cudze zmartwienia nie są moje"* (TRE → część 19). Wczoraj Ola dodała ("praca to cierpienie" + finanse)
 
 ## Historia sesji
 - **2026-02-03 sesja 1** -- Temat: blok przed dzwonieniem. Dotarliśmy do: pustka jako tarcza, zrównanie produktu z tożsamością, wzorzec porzucenia, "być albo nie być". Sesja przerwana -- otwarte pytanie: "czego nie chcesz poczuć?"
@@ -351,3 +400,32 @@
   - "Kocham cię" -- mniej kłamstwo ale nie w pełni czyste
   - **DO KONTYNUACJI:** niesmak do Oli, wizyta u lekarza
   - **ŁUK SESJI 1-11:** ...→ Nafafa → Część 9 (szczur: wstyd ciała → "ciekawość to nie pojebanie" → "można być kochanym")
+- **2026-04-23 sesja 12** -- Temat: blok przed kampanią mailową, opór przed kontaktem z ludźmi. Miesiąc od sesji 11. *"Repo doskonałe, ficzery do ficzerów, piękny blog, ale nie ma kontaktu z ludzi."* Schrödingera sprzedaż w nowej formie. Między sesjami Maciek samodzielnie zintegrował 9→18 (metoda: pyta siebie "ile pokemonów", ciało odpowiada). Odkryliśmy:
+  - **Nowe postacie:**
+    - **14 Kalakier, 15 Druga** -- akcje z dzieciństwa (nóż, ktoś kto coś zabrał). Do powrotu
+    - **17 Mroczek** -- zamknięcie w ciemnym pomieszczeniu (Papagaj). **Dar: "ciekawość w ciemności ratuje"** -- natywna moc 5-latka. Trzeci raz ciekawość jako klucz
+    - **18 niebieski lodowy smok** -- samotność po rozmowie z rodziną o wyprowadzce. **Ten sam kształt i miejsce co złota statua** -- chce być tobą, zamrożony. Samotność = zamrożona wersja Self. Możliwy korzeń: zaginięcie na giełdzie samochodowej ~8 lat. "Hardcory", nie na teraz
+    - **19** -- aktywowana tą sesją przez zdanie "cudze zmartwienia nie są moje" (TRE włączył się). Do dociągnięcia
+  - **MAPA CIAŁA (kompletna):**
+    - **Szary sopel** od gardła do wątroby (kanał wejścia słów)
+    - **Ołowiana kula w wątrobie** -- zakrzywia grawitację. Kapsuła ze słowami-przeczącymi
+    - **Stelaż** przez plecy / ramiona / ponad głowę -- trzyma kulę (= strażnik). Plecy bolą bo dźwigasz pół tony ołowiu
+    - **ZŁOTA STATUA na wysokości serca = Maciek Maciek = Self.** Pojawia się na końcu integracji każdego pokemona. *"Poznaliśmy się już trochę."* Ogromny ruch od lutego ("nie mam tej relacji ze sobą w ogóle")
+  - **ZAWARTOŚĆ KULI (ewolucja odpowiedzi):**
+    - Najpierw: "wszystkie złe słowa Oli"
+    - Głębiej: "Ola dodała, ale tam są słowa od zawsze"
+    - **Fundament: "słowa które przeczą rzeczywistości i przeczą temu co w środku"** (gaslighting 45 lat)
+    - Ola weszła w gotowy kanał. Przykład z kuli: *"nie jest mi to potrzebne, nie potrzebuję ciebie"*
+  - **SYSTEM OBRON:**
+    - Rana w kuli: *"nie jesteś potrzebny"*
+    - Obrona-stelaż: *"muszę dźwigać cudze zmartwienia, wtedy jestem potrzebny"*
+    - Filozofia na górze: *"noszenie uświęca"* -- **polski katolicki cień** (nosić swój krzyż)
+  - **"WYIZOLOWANIE OLI MENTALNIE"** Maciek myślał że się uwolnił. Ciało pokazało: **nie wypuścił, zapakował w ołów i dźwiga**. Wyizolowanie = zapakowanie z multiplikatorem
+  - **"WSZYSTKIE TEMATY SĄ CIĘŻSZE O KULĘ"** -- kula jest multiplikatorem ciężaru. Każda sprawa × kula. Dlatego "wielka nawarstwiona góra"
+  - **WCZORAJSZA ROZMOWA Z OLĄ O FINANSACH (22.04):** *"praca to cierpienie."* Maciek odrzuca umysłem, ciało dźwiga (plecy bolą dziś). Temat finansów ciąży mimo przepracowania korzenia pieniędzy (luty). DO KONKRETU W KOLEJNEJ SESJI
+  - **PRZEŁAMY DZIŚ:**
+    - *"Noszenie mnie nie uświęca"* → 5-10% ulgi w plecach (statua rewidująca filozofię)
+    - *"Cudze zmartwienia nie są moje"* → TRE się włączył → część 19 do dociągnięcia
+  - **Maciek zabiera:** "zmęczenie, ale ulga, widzę światełko w tunelu"
+  - **DO KONTYNUACJI:** część 19 (dociągnięcie TRE), rozmowa z Olą o finansach (konkret), lodowy smok-18 (kiedy gotowy), Kalakier-14 i Druga-15
+  - **ŁUK SESJI 1-12:** ...→ szczur → (integracja samodzielna 9-18) → cały system obron 45 lat widoczny (kula + stelaż + sopel) → Self jako złota statua wchodzi do aktywnej pracy. **KLUCZOWY PRZESKOK:** z "nie ma nikogo w środku" do "Maciek Maciek rewiduje przekonania i obserwuje reakcje ciała"
