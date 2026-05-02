@@ -10,6 +10,9 @@
 - Czuje się "na kolanach", oddał wszystko. Teraz potrzebuje "podnieść się z kolan", "urosnąć jako człowiek" (2026-02-03)
 - **PRZEŁOM:** Zrozumiał że potrzeba budować siebie, "dzielić się blaskiem, a nie ostatnią koszulą" (2026-02-03)
 - "Super małe coś swojego" -- pierwsze odkrycie własnej przestrzeni, własnych decyzji, granic. Małe bo świeże, kruche, chronione. (2026-02-03)
+- **Ola i godność (sesja 13):** Niesmak i złość do Oli jako gruda w piersi. Ciało wydmuchało "szary papierowy dym" z napisem "szmata" -- skierowane do Oli za zabranie kontaktu z dziećmi i domu. Pod tym rdzeń: godność i poczucie wartości. Ważne rozróżnienie: Ola mogła zabrać dom/dostęp/warunki i próbować odebrać godność, ale **na końcu ciało się obroniło** (2026-05-03)
+- **Gromowładny (sesja 13):** Manager nazwany przez Olę. Chronił przed brakiem szacunku, rozpoznawanym konkretnie jako omijanie fundamentalnej potrzeby snu. Nie jest Self. Ostry język ("albo robisz, albo jesteś pizda") okazał się batem, ale pod spodem mówił: **"używaj życia"** -- żyć = robić, kontakt z ludźmi, wyjście na świat (2026-05-03)
+- **Schowana część wiążąca ręce (sesja 13):** Gromowładny wskazał, że opór do działania jest gdzie indziej: jakby inny manager wiązał ręce. Nazwał ją pogardliwie "szmatą". Gdy Maciek odmówił bicia jej językiem Gromowładnego i pozwolił jej się nie pokazywać, część zamilkła, ale Gromowładny też się odczepił. W ciele zrobiło się lżej i jaśniej (2026-05-03)
 **Co jest jego (autentyczne):**
 - Lubię pomagać innym (ale uwaga - może być też naauczone jako strategia "bycia kochanym")
 - Dobry technicznie (komputery, AI) -- talent
@@ -22,6 +25,8 @@
 - Co by znaczyło "dzielić się blaskiem"? Jak to wygląda w praktyce?
 - Jak poznać że potrzeba jest autentyczna vs naauczona?
 - "Pomaganie innym" -- czy to autentyczne, czy strategia przetrwania?
+- Kim/czym jest część wiążąca ręce, jeśli nie patrzeć na nią pogardą Gromowładnego?
+- Jak rozpoznać działanie z godności vs działanie żeby udowodnić coś Oli?
 
 ## Relacja ze sobą
 **Stan:** aktywny -- **Self wyłonił się jako złota statua** (sesja 12, 2026-04-23)
@@ -39,6 +44,7 @@
 - Jak rozpoznawać głos narzucony ("nieistotne") vs prawdziwe potrzeby małego Maćka?
 **Postanowienia:**
 - "Nie zostawię cię samego" -- obietnica od Maćka do Maćka (2026-02-05)
+- "Odpisuję Oli nie po to, żeby odzyskać godność od niej, tylko żeby działać z własnej godności." -- zdanie intencji przed zaległym mailem do Oli; reakcja ciała: siła i moc (2026-05-03)
 
 **SELF JAKO ZŁOTA STATUA (sesja 12, 2026-04-23):**
 - Na wysokości serca. *"Maciek Maciek. Ja sam. Poznaliśmy się już trochę."*
@@ -148,6 +154,7 @@
 - **WSTYD CIAŁA → LEKARZ:** wstyd o odbyt z dzieciństwa blokuje wizytę u lekarza z realnym problemem (rower). Szczur potwierdził połączenie
 - **CZTERY WARSTWY BLOKU:** (1) fasolka/głos rodzica "beznadziejne" (prawa pierś), (2) Nafafa/chaos-strażnik (lewa pierś), (3) szczur/wstyd ciała "kłamca" (splot słoneczny → gardło), (4) **ołowiana kula + stelaż + słowa-przeczące 45 lat** (wątroba + plecy + ponad głowę, sesja 12). Wszystkie chroniły przed kontaktem z ludźmi w kontekście zarobkowym, każda z innej strony
 - **CZĘŚĆ 19 + OŁOWIANA KULA + STELAŻ + STATUA (sesja 12, 2026-04-23):** Pełna mapa somatyczna. Ołowiana kula w wątrobie pełna "słów które przeczą rzeczywistości" (gaslighting 45 lat, Ola weszła w gotowy kanał). Stelaż w plecach dźwiga (= strażnik, plecy bolą dosłownie). Sopel szary gardło→wątroba (kanał wejścia). **Złota statua = Maciek Maciek = Self** na wysokości serca pojawiła się -- rewiduje przekonania. System obron: rana "nie jesteś potrzebny" + obrona "muszę dźwigać cudze" + filozofia "noszenie uświęca" (polski katolicki cień). Blok kampania mailowa = "repo doskonałe ficzery do ficzerów brak kontaktu". Schrödingera sprzedaż. Przełamy: *"noszenie nie uświęca"* (5-10% ulgi w plecach) + *"cudze zmartwienia nie są moje"* (TRE → część 19). Wczoraj Ola dodała ("praca to cierpienie" + finanse)
+- **GROMOWŁADNY + część wiążąca ręce (sesja 13, 2026-05-03):** Kontakt z ludźmi i wyjście na świat pojawiły się nie przez sprzedaż, tylko przez zaległego maila do Oli. Gromowładny pcha do życia ("robić", "kontakt z ludźmi"), ale nie jest blokiem. Blok/opór leży w innej, schowanej części wiążącej ręce. Pierwszy mikro-ruch: odpisać Oli **z własnej godności**, nie po odzyskanie godności od niej
 
 ## Historia sesji
 - **2026-02-03 sesja 1** -- Temat: blok przed dzwonieniem. Dotarliśmy do: pustka jako tarcza, zrównanie produktu z tożsamością, wzorzec porzucenia, "być albo nie być". Sesja przerwana -- otwarte pytanie: "czego nie chcesz poczuć?"
@@ -429,3 +436,17 @@
   - **Maciek zabiera:** "zmęczenie, ale ulga, widzę światełko w tunelu"
   - **DO KONTYNUACJI:** część 19 (dociągnięcie TRE), rozmowa z Olą o finansach (konkret), lodowy smok-18 (kiedy gotowy), Kalakier-14 i Druga-15
   - **ŁUK SESJI 1-12:** ...→ szczur → (integracja samodzielna 9-18) → cały system obron 45 lat widoczny (kula + stelaż + sopel) → Self jako złota statua wchodzi do aktywnej pracy. **KLUCZOWY PRZESKOK:** z "nie ma nikogo w środku" do "Maciek Maciek rewiduje przekonania i obserwuje reakcje ciała"
+- **2026-05-03 sesja 13** -- Temat: Ola, niesmak/złość, Gromowładny, godność i mikro-ruch do ludzi. Odkryliśmy:
+  - Punkt startowy: "człowiek" → Ola. Emocje: niesmak i złość. Ciało: gruda w piersi
+  - Gest ciała: jak wydmuchiwanie dymu papierosowego + wykrzywienie. Dym: szary, papierowy, mój. Na papierze słowo "szmata"
+  - "Szmata" skierowane do Oli: za zabranie kontaktu z dziećmi i domu. Pod spodem: godność i poczucie wartości
+  - Rozróżnienie: Ola zabrała dom i dostęp do dzieci, mogła próbować odebrać godność, ale **na końcu ciało się obroniło**
+  - Pojawił się **Gromowładny** -- manager nazwany przez Olę. Nie jest "JA". Chronił przed brakiem szacunku; konkretnie rozpoznawał brak szacunku po omijaniu fundamentalnej potrzeby snu
+  - Gromowładny mówił batem: "albo robisz, albo jesteś pizda." Po dopytaniu rdzeń: nieużywanie życia zaburza biologiczny porządek świata. On nie broni życia, tylko pcha Maćka, żeby żył
+  - Dla Gromowładnego żyć = robić, kontakt z ludźmi, wyjście na świat. Gdy został zrozumiany, zelżał
+  - Gromowładny wskazał, że opór do działania jest w innym miejscu: jakby inny manager wiązał ręce, a on ma pretensje, że Maciek nie używa narzędzi
+  - Tę schowaną część Gromowładny nazwał "szmatą". Maciek nie przyjął jego pogardy wobec niej: "nie będę jej bił twoim językiem"
+  - Część wiążąca ręce nie chciała się pojawić. Została uszanowana: nie trzeba jej wyciągać na siłę. Efekt: ona zamilkła, Gromowładny też się odczepił. Ciało: lżej, lekko jaśniej
+  - Najmniejszy realny ruch wyjścia do ludzi bez zdradzania schowanej części: odpisać na zaległego maila do Oli
+  - Zdanie intencji: **"Odpisuję Oli nie po to, żeby odzyskać godność od niej, tylko żeby działać z własnej godności."** Reakcja ciała: siła i moc
+  - **DO KONTYNUACJI:** kim jest część wiążąca ręce; jak Gromowładny może pchać do życia bez pogardy; sprawdzić po mailu do Oli, czy był z godności czy z udowadniania
