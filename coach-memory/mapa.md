@@ -129,7 +129,7 @@
 - Jak wygląda praca ze statuą bez strażnika (gdy nie daje dostępu do środka kuli)?
 
 ## Blok sprzedażowy -- kontakt z ludźmi w kontekście zarobkowym
-**Stan:** aktywny -- **czwarty przełom** (2026-04-23, sesja 12: mapa somatyczna kompletna + system 45-letniego gaslightingu + Self wchodzi do pracy jako złota statua)
+**Stan:** aktywny -- kolejna warstwa odsłonięta (2026-06-15, sesja 14: telefon odpala freeze "zamrzyj"; niebieski budyń okazuje się ośmiolatkiem/zawiniątkiem/dzidziusiem potrzebującym bycia wziętym na ręce)
 **Kluczowe wnioski:**
 - Blok wygląda na nawykowy ("emocje wyczyszczone przez TRE") ale pod pustką siedzi rozpacz/żal/strach (2026-02-03)
 - "Być albo nie być" -- stawka zrównana z przetrwaniem, nie z biznesem (2026-02-03)
@@ -155,6 +155,8 @@
 - **CZTERY WARSTWY BLOKU:** (1) fasolka/głos rodzica "beznadziejne" (prawa pierś), (2) Nafafa/chaos-strażnik (lewa pierś), (3) szczur/wstyd ciała "kłamca" (splot słoneczny → gardło), (4) **ołowiana kula + stelaż + słowa-przeczące 45 lat** (wątroba + plecy + ponad głowę, sesja 12). Wszystkie chroniły przed kontaktem z ludźmi w kontekście zarobkowym, każda z innej strony
 - **CZĘŚĆ 19 + OŁOWIANA KULA + STELAŻ + STATUA (sesja 12, 2026-04-23):** Pełna mapa somatyczna. Ołowiana kula w wątrobie pełna "słów które przeczą rzeczywistości" (gaslighting 45 lat, Ola weszła w gotowy kanał). Stelaż w plecach dźwiga (= strażnik, plecy bolą dosłownie). Sopel szary gardło→wątroba (kanał wejścia). **Złota statua = Maciek Maciek = Self** na wysokości serca pojawiła się -- rewiduje przekonania. System obron: rana "nie jesteś potrzebny" + obrona "muszę dźwigać cudze" + filozofia "noszenie uświęca" (polski katolicki cień). Blok kampania mailowa = "repo doskonałe ficzery do ficzerów brak kontaktu". Schrödingera sprzedaż. Przełamy: *"noszenie nie uświęca"* (5-10% ulgi w plecach) + *"cudze zmartwienia nie są moje"* (TRE → część 19). Wczoraj Ola dodała ("praca to cierpienie" + finanse)
 - **GROMOWŁADNY + część wiążąca ręce (sesja 13, 2026-05-03):** Kontakt z ludźmi i wyjście na świat pojawiły się nie przez sprzedaż, tylko przez zaległego maila do Oli. Gromowładny pcha do życia ("robić", "kontakt z ludźmi"), ale nie jest blokiem. Blok/opór leży w innej, schowanej części wiążącej ręce. Pierwszy mikro-ruch: odpisać Oli **z własnej godności**, nie po odzyskanie godności od niej
+- **NIEBIESKI BUDYŃ / OŚMIOLATEK / ZAWINIĄTKO (sesja 14, 2026-06-15):** Bezpośrednia próba wejścia w telefony do klientów odpala freeze: bezruch, utrata energii, klejąca niebieska mgła/budyń spływający po ciele, klatka + ramiona. Intencja: **"zamrzyj"**. Najgorszy scenariusz: klient zdewaluuje pracę → "jestem bezwartościowy"; rdzeń: **"chcę mieć wartość jakąkolwiek"**. Część ma 8 lat, ale schodzi głębiej: najpierw niebieski lodowy ośmiolatek z delikatnym dotykiem, potem zawiniątko, potem dzidziuś. Ręce rzekomo blokujące ruch okazały się wyciągnięte do przytulenia. Kluczowy ruch: **wziąć na ręce / nie zostawić podczas działania**. Po kontakcie budyń robi się zielony i ciepły pomarańczowy. Dzidziuś łapie palce i przykłada do ust. To nie potrzebuje argumentu o produkcie, tylko kontaktu, bezpieczeństwa i obecności.
+- **OLA JAKO INTRUZJA W BLOKU SPRZEDAŻOWYM (sesja 14, 2026-06-15):** W trakcie ciepła z zawiniątkiem wchodzi obraz Oli i ruminacje/dialogi. Ola stoi z boku i "wciska się" w uwagę. Zdanie **"Ola jest obca"** lekko zaciera jej obraz. Ważne rozróżnienie: realna Ola jest obca; obraz Oli w Maćku jest jego śladem wewnętrznym, ale nie dostaje zawiniątka/dzidziusia ani centrum sceny. Maciek rozpoznaje u Oli silny wzorzec narcystyczny/NPD (jego rozpoznanie, nie diagnoza kliniczna).
 
 ## Historia sesji
 - **2026-02-03 sesja 1** -- Temat: blok przed dzwonieniem. Dotarliśmy do: pustka jako tarcza, zrównanie produktu z tożsamością, wzorzec porzucenia, "być albo nie być". Sesja przerwana -- otwarte pytanie: "czego nie chcesz poczuć?"
@@ -450,3 +452,20 @@
   - Najmniejszy realny ruch wyjścia do ludzi bez zdradzania schowanej części: odpisać na zaległego maila do Oli
   - Zdanie intencji: **"Odpisuję Oli nie po to, żeby odzyskać godność od niej, tylko żeby działać z własnej godności."** Reakcja ciała: siła i moc
   - **DO KONTYNUACJI:** kim jest część wiążąca ręce; jak Gromowładny może pchać do życia bez pogardy; sprawdzić po mailu do Oli, czy był z godności czy z udowadniania
+- **2026-06-15 sesja 14** -- Temat: niemożność rozpoczęcia telefonów do klientów mimo dobrego produktu; freeze, niebieski budyń, zawiniątko/dzidziuś, Ola jako ruminacyjny wtręt. Sesja przerwana przed domknięciem. Odkryliśmy:
+  - Punkt startowy: trzeba wykonać kilka/kilkadziesiąt telefonów do klientów. Maciek ma dobry produkt, ale przeszedł już wszystkie formy prokrastynacji i nadal nie może zacząć
+  - Wyobrażenie pierwszego telefonu: **bezruch**, utrata energii, zastygnięcie
+  - Ciało: klatka piersiowa i ramiona; na całe ciało spływa klejąca niebieska mgła/budyń jak miód
+  - Intencja budyniu: **"zamrzyj"**
+  - Najgorsze, jeśli zadzwoni: klient zdewaluuje pracę, okaże się że Maciek jest bezwartościowy. Zdanie: **"chcę mieć wartość jakąkolwiek"**
+  - Wiek części: **8 lat**
+  - Część wygląda jak niebieski, lodowy, zimny ośmiolatek; patrzy w dół, nie chce rozmawiać, ma miękki słaby głos i delikatny dotyk
+  - Ręce początkowo odczytane jako hamowanie ruchu okazały się wyciągnięte do przytulenia. Część chce **na ręce**
+  - Gdy Maciek bierze ją na ręce, budyń robi się zielony, potem ciepły pomarańczowy
+  - Kiedy część się spina, włazi na plecy; kiedy jest OK, wraca na ręce jako **zawiniątko**
+  - Zawiniątko schodzi głębiej do postaci dzidziusia. Naturalny ruch Maćka: **"otoczyć całą miłością jak się da"**
+  - Dzidziuś ufnie łapie Maćka za palce małymi rączkami i przykłada je do ust. Warstwa sprzed słów: kontakt, bezpieczeństwo, karmienie, obecność
+  - W trakcie ciepła pojawia się Ola/Aleksandra jako ruminacja i powtarzanie dialogów. Maciek rozpoznaje u niej silny wzorzec narcystyczny/NPD (jego rozpoznanie, nie diagnoza kliniczna)
+  - Ola stoi z boku i "wciska się" w scenę. Zdanie **"Ola jest obca"** lekko zaciera jej obraz
+  - Ważne rozróżnienie: realna Ola jest obca; obraz Oli w Maćku jest jego wewnętrznym śladem. Obraz Oli nie dostaje zawiniątka/dzidziusia ani centrum uwagi
+  - **DO KONTYNUACJI:** dokończyć kontakt z dzidziusiem; sprawdzić co dzieje się z klatką/ramionami po tym jak łapie palce; z tego miejsca wrócić do wyobrażenia pierwszego telefonu i zobaczyć, czy ruch jest możliwy z dzieckiem "na rękach", nie zostawionym za plecami
