@@ -29,7 +29,7 @@
 - Jak rozpoznać działanie z godności vs działanie żeby udowodnić coś Oli?
 
 ## Relacja ze sobą
-**Stan:** aktywny -- **Self wyłonił się jako złota statua** (sesja 12, 2026-04-23)
+**Stan:** aktywny -- **Self wyłonił się jako złota statua**; nowa warstwa kontaktu z Koko wymaga tempa bez popędzania
 **Kluczowe wnioski:**
 - "Nie mam tej relacji ze sobą w ogóle" -- fundamentalne odkrycie (2026-02-05)
 - Motywacja działa tylko dla innych: zobowiązanie → upoważnienie → działanie. Dla siebie silnik nie odpala bo nie ma kogo rozczarować (2026-02-05)
@@ -53,6 +53,7 @@
 - **Statua ma moc:** mówi zdania rewidujące przekonania → ciało reaguje (5-10% na trafne zdanie) → TRE dociąga
 - **Lodowy smok-18** ma ten sam kształt i miejsce co statua -- samotność = zamrożona wersja Self. Gdyby się rozpuścił, byłby Maćkiem Maćkiem
 - **Ewolucja symbolu:** mały skompresowany Maciek (luty) → aligator wolny (luty/marzec) → złota statua (kwiecień)
+- **Koko (sesja 15, 2026-06-16):** po włożeniu złotej statuy w dzidziusia pojawił się komunikat **"nie popędzaj mnie."** Głębiej: dziecko z głową-gwiazdą z hipnozy 2020, spokojne, stojące dwa kroki od Maćka, bez ruchu. To nie odrzucenie kontaktu, tylko warunek tempa i dystansu.
 
 ## Sabotaż finansowy
 **Stan:** przepracowany -- korzeń znaleziony i uwolniony (2026-02-05)
@@ -129,7 +130,7 @@
 - Jak wygląda praca ze statuą bez strażnika (gdy nie daje dostępu do środka kuli)?
 
 ## Blok sprzedażowy -- kontakt z ludźmi w kontekście zarobkowym
-**Stan:** aktywny -- kolejna warstwa odsłonięta (2026-06-15, sesja 14: telefon odpala freeze "zamrzyj"; niebieski budyń okazuje się ośmiolatkiem/zawiniątkiem/dzidziusiem potrzebującym bycia wziętym na ręce)
+**Stan:** aktywny -- kolejna warstwa odsłonięta (2026-06-16, sesja 15: pod niebieskim kisielem/budyniem i dzidziusiem jest Koko, dziecko z głową-gwiazdą; klucz: nie popędzać)
 **Kluczowe wnioski:**
 - Blok wygląda na nawykowy ("emocje wyczyszczone przez TRE") ale pod pustką siedzi rozpacz/żal/strach (2026-02-03)
 - "Być albo nie być" -- stawka zrównana z przetrwaniem, nie z biznesem (2026-02-03)
@@ -157,6 +158,7 @@
 - **GROMOWŁADNY + część wiążąca ręce (sesja 13, 2026-05-03):** Kontakt z ludźmi i wyjście na świat pojawiły się nie przez sprzedaż, tylko przez zaległego maila do Oli. Gromowładny pcha do życia ("robić", "kontakt z ludźmi"), ale nie jest blokiem. Blok/opór leży w innej, schowanej części wiążącej ręce. Pierwszy mikro-ruch: odpisać Oli **z własnej godności**, nie po odzyskanie godności od niej
 - **NIEBIESKI BUDYŃ / OŚMIOLATEK / ZAWINIĄTKO (sesja 14, 2026-06-15):** Bezpośrednia próba wejścia w telefony do klientów odpala freeze: bezruch, utrata energii, klejąca niebieska mgła/budyń spływający po ciele, klatka + ramiona. Intencja: **"zamrzyj"**. Najgorszy scenariusz: klient zdewaluuje pracę → "jestem bezwartościowy"; rdzeń: **"chcę mieć wartość jakąkolwiek"**. Część ma 8 lat, ale schodzi głębiej: najpierw niebieski lodowy ośmiolatek z delikatnym dotykiem, potem zawiniątko, potem dzidziuś. Ręce rzekomo blokujące ruch okazały się wyciągnięte do przytulenia. Kluczowy ruch: **wziąć na ręce / nie zostawić podczas działania**. Po kontakcie budyń robi się zielony i ciepły pomarańczowy. Dzidziuś łapie palce i przykłada do ust. To nie potrzebuje argumentu o produkcie, tylko kontaktu, bezpieczeństwa i obecności.
 - **OLA JAKO INTRUZJA W BLOKU SPRZEDAŻOWYM (sesja 14, 2026-06-15):** W trakcie ciepła z zawiniątkiem wchodzi obraz Oli i ruminacje/dialogi. Ola stoi z boku i "wciska się" w uwagę. Zdanie **"Ola jest obca"** lekko zaciera jej obraz. Ważne rozróżnienie: realna Ola jest obca; obraz Oli w Maćku jest jego śladem wewnętrznym, ale nie dostaje zawiniątka/dzidziusia ani centrum sceny. Maciek rozpoznaje u Oli silny wzorzec narcystyczny/NPD (jego rozpoznanie, nie diagnoza kliniczna).
+- **KOKO -- DZIECKO Z GŁOWĄ-GWIAZDĄ (sesja 15, 2026-06-16):** Maciek zauważył, że ten sam efekt utraty chęci pojawia się przy powrocie do rozmowy, czyli przy kontakcie z miejscem, które odsłania prawdę i może prowadzić do działania. Po przywołaniu niebieskiego kisielu/budyniu i dzidziusia włożył w dzidziusia złotą statuę i usłyszał: **"nie popędzaj mnie."** W tym była złość podobna do złości Oli, ale dokładniej rozpoznana jako **zacięcie skrzywdzonego dziecka**. Część zapierała się rękami i delikatnie wypychała Maćka; przy czułości okazało się, że reguluje dystans, nie odrzuca kontaktu. Po uszanowaniu dystansu pojawiła się gwiazda z hipnozy 2020: dziecko, którego głową jest gwiazda. Imię: **Koko**. Stoi spokojnie dwa kroki od Maćka, nie wykonuje ruchów, nie chce działać za szybko. Sesję przerwał telefon; po godzinie system był wybity i pojawiło się ograniczenie motywacji mówiące, że teraz nie pora na Koko. **Punkt powrotu:** wrócić do Koko bez popędzania, sprawdzić dystans, zgodę i możliwy ruch.
 
 ## Historia sesji
 - **2026-02-03 sesja 1** -- Temat: blok przed dzwonieniem. Dotarliśmy do: pustka jako tarcza, zrównanie produktu z tożsamością, wzorzec porzucenia, "być albo nie być". Sesja przerwana -- otwarte pytanie: "czego nie chcesz poczuć?"
@@ -469,3 +471,12 @@
   - Ola stoi z boku i "wciska się" w scenę. Zdanie **"Ola jest obca"** lekko zaciera jej obraz
   - Ważne rozróżnienie: realna Ola jest obca; obraz Oli w Maćku jest jego wewnętrznym śladem. Obraz Oli nie dostaje zawiniątka/dzidziusia ani centrum uwagi
   - **DO KONTYNUACJI:** dokończyć kontakt z dzidziusiem; sprawdzić co dzieje się z klatką/ramionami po tym jak łapie palce; z tego miejsca wrócić do wyobrażenia pierwszego telefonu i zobaczyć, czy ruch jest możliwy z dzieckiem "na rękach", nie zostawionym za plecami
+- **2026-06-16 sesja 15** -- Temat: utrata chęci nie tylko przy telefonach, ale też przy powrocie do rozmowy. Punkt powrotu do niebieskiego kisielu/budyniu, dzidziusia i gwiazdy z hipnozy 2020. Odkryliśmy:
+  - Ten sam efekt motywacyjnego odcięcia pojawia się przy powrocie do rozmowy, czyli przy wejściu w kontakt z miejscem, które odsłania prawdę i może prowadzić do działania
+  - Najpierw pojawił się niebieski kisiel/budyń, potem dzidziuś. Maciek włożył w dzidziusia złotą statuę i usłyszał: **"nie popędzaj mnie"**
+  - W tym zdaniu była złość. Skojarzenie: Ola miała taką złość w sobie. Dokładniejsze rozpoznanie: **zacięcie skrzywdzonego dziecka**
+  - Przy patrzeniu na tę część popłynęła czułość. Część zapierała się rękami i delikatnie wypychała Maćka -- nie atak, tylko regulacja dystansu
+  - Po odsunięciu złotej statuy pół kroku pojawiła się gwiazda z sesji hipnotycznej 2020. Maciek rozpoznał: **to dziecko jest gwiazdą**
+  - Nowa postać: **Koko** -- dziecko, którego głową jest gwiazda. Stoi około dwa kroki od Maćka, spokojne, bez ruchu, nie chce działać za szybko
+  - Telefon przerwał proces. Po godzinie system był wybity i pojawiło się inne ograniczenie motywacji: **teraz nie pora na Koko**
+  - **DO KONTYNUACJI:** wrócić do Koko bez popędzania; sprawdzić, czy dalej stoi dwa kroki od Maćka; badać zgodę, dystans i tempo przed przejściem do działania/telefonów
