@@ -29,7 +29,7 @@
 - Jak rozpoznać działanie z godności vs działanie żeby udowodnić coś Oli?
 
 ## Relacja ze sobą
-**Stan:** aktywny -- **Self wyłonił się jako złota statua**; nowa warstwa kontaktu z Koko wymaga tempa bez popędzania
+**Stan:** aktywny -- **Self wyłonił się jako złota statua/słońce/Ja**; Koko/Kola jako strażnik rany po zdradach połączyła się ze słońcem, trwa dwudniowe zaklepienie rany
 **Kluczowe wnioski:**
 - "Nie mam tej relacji ze sobą w ogóle" -- fundamentalne odkrycie (2026-02-05)
 - Motywacja działa tylko dla innych: zobowiązanie → upoważnienie → działanie. Dla siebie silnik nie odpala bo nie ma kogo rozczarować (2026-02-05)
@@ -54,6 +54,7 @@
 - **Lodowy smok-18** ma ten sam kształt i miejsce co statua -- samotność = zamrożona wersja Self. Gdyby się rozpuścił, byłby Maćkiem Maćkiem
 - **Ewolucja symbolu:** mały skompresowany Maciek (luty) → aligator wolny (luty/marzec) → złota statua (kwiecień)
 - **Koko (sesja 15, 2026-06-16):** po włożeniu złotej statuy w dzidziusia pojawił się komunikat **"nie popędzaj mnie."** Głębiej: dziecko z głową-gwiazdą z hipnozy 2020, spokojne, stojące dwa kroki od Maćka, bez ruchu. To nie odrzucenie kontaktu, tylko warunek tempa i dystansu.
+- **Kola i słońce (sesja 16, 2026-06-19):** Koko/Kola zostało rozpoznane jako strażnik, a ostry niebieski okruch lodu w brzuchu jako ból po zdradach. Słońce, złoty posąg i złote coś z innych akcji to ten sam rdzeń: **Ja**. Ja pomaga przez moc, która się udziela, i ciepło, które okrywa. Kola połączyła się ze słońcem i trzyma rękę na ranie przez dwa dni, potem ma odejść do słońca jako część jego woli.
 
 ## Sabotaż finansowy
 **Stan:** przepracowany -- korzeń znaleziony i uwolniony (2026-02-05)
@@ -130,7 +131,7 @@
 - Jak wygląda praca ze statuą bez strażnika (gdy nie daje dostępu do środka kuli)?
 
 ## Blok sprzedażowy -- kontakt z ludźmi w kontekście zarobkowym
-**Stan:** aktywny -- kolejna warstwa odsłonięta (2026-06-16, sesja 15: pod niebieskim kisielem/budyniem i dzidziusiem jest Koko, dziecko z głową-gwiazdą; klucz: nie popędzać)
+**Stan:** aktywny -- kolejna warstwa odsłonięta (2026-06-19, sesja 16: Koko/Kola to strażnik; cierń w brzuchu to ból po wielokrotnych zdradach; klucz: zgoda, nie wyrywać, dwa dni zaklepienia rany)
 **Kluczowe wnioski:**
 - Blok wygląda na nawykowy ("emocje wyczyszczone przez TRE") ale pod pustką siedzi rozpacz/żal/strach (2026-02-03)
 - "Być albo nie być" -- stawka zrównana z przetrwaniem, nie z biznesem (2026-02-03)
@@ -159,6 +160,7 @@
 - **NIEBIESKI BUDYŃ / OŚMIOLATEK / ZAWINIĄTKO (sesja 14, 2026-06-15):** Bezpośrednia próba wejścia w telefony do klientów odpala freeze: bezruch, utrata energii, klejąca niebieska mgła/budyń spływający po ciele, klatka + ramiona. Intencja: **"zamrzyj"**. Najgorszy scenariusz: klient zdewaluuje pracę → "jestem bezwartościowy"; rdzeń: **"chcę mieć wartość jakąkolwiek"**. Część ma 8 lat, ale schodzi głębiej: najpierw niebieski lodowy ośmiolatek z delikatnym dotykiem, potem zawiniątko, potem dzidziuś. Ręce rzekomo blokujące ruch okazały się wyciągnięte do przytulenia. Kluczowy ruch: **wziąć na ręce / nie zostawić podczas działania**. Po kontakcie budyń robi się zielony i ciepły pomarańczowy. Dzidziuś łapie palce i przykłada do ust. To nie potrzebuje argumentu o produkcie, tylko kontaktu, bezpieczeństwa i obecności.
 - **OLA JAKO INTRUZJA W BLOKU SPRZEDAŻOWYM (sesja 14, 2026-06-15):** W trakcie ciepła z zawiniątkiem wchodzi obraz Oli i ruminacje/dialogi. Ola stoi z boku i "wciska się" w uwagę. Zdanie **"Ola jest obca"** lekko zaciera jej obraz. Ważne rozróżnienie: realna Ola jest obca; obraz Oli w Maćku jest jego śladem wewnętrznym, ale nie dostaje zawiniątka/dzidziusia ani centrum sceny. Maciek rozpoznaje u Oli silny wzorzec narcystyczny/NPD (jego rozpoznanie, nie diagnoza kliniczna).
 - **KOKO -- DZIECKO Z GŁOWĄ-GWIAZDĄ (sesja 15, 2026-06-16):** Maciek zauważył, że ten sam efekt utraty chęci pojawia się przy powrocie do rozmowy, czyli przy kontakcie z miejscem, które odsłania prawdę i może prowadzić do działania. Po przywołaniu niebieskiego kisielu/budyniu i dzidziusia włożył w dzidziusia złotą statuę i usłyszał: **"nie popędzaj mnie."** W tym była złość podobna do złości Oli, ale dokładniej rozpoznana jako **zacięcie skrzywdzonego dziecka**. Część zapierała się rękami i delikatnie wypychała Maćka; przy czułości okazało się, że reguluje dystans, nie odrzuca kontaktu. Po uszanowaniu dystansu pojawiła się gwiazda z hipnozy 2020: dziecko, którego głową jest gwiazda. Imię: **Koko**. Stoi spokojnie dwa kroki od Maćka, nie wykonuje ruchów, nie chce działać za szybko. Sesję przerwał telefon; po godzinie system był wybity i pojawiło się ograniczenie motywacji mówiące, że teraz nie pora na Koko. **Punkt powrotu:** wrócić do Koko bez popędzania, sprawdzić dystans, zgodę i możliwy ruch.
+- **KOLA -- STRAŻNIK RANY I CIEŃ ZDRAD (sesja 16, 2026-06-19):** Punkt w brzuchu nad pępkiem i w prawo okazał się ostrym niebieskim okruchem lodu/drzazgą, z tej samej substancji co Koko. Gwiazda zaczęła wyciągać lód jak drzazgę; Koko było spokojne. Rozróżnienie: **Koko/Kola jest strażnikiem, drzazga jest bólem**. Drzazga to rana zadanych zdrad: szpikulec w brzuch, który pękł i siedział jak cierń. W trakcie pojawiły się ruminacje o mediacji alimentacyjnej z Olą i bilans krzywdy: ona mówi o alimentach, a ciało pamięta zabranie 1/2 domu o znacznej wartości. Pojawił się też strażak od telefonu/ucieczki uwagi: żartownik, który na pytanie "który to?" krzyknął "99", zaczął się śmiać i odleciał; numer roboczy raczej 22 albo 23, "99" to żart, nie fakt. Pojawiło się poczucie wielokrotnych dźgnięć. Silne TRE ruszyło miejsce w brzuchu; Kola zrobiła się pomarańczowa, kolorowa, uśmiechnięta. Oczy Oli zostały rozpoznane jako nośnik miłości do ośmiolatka i jednocześnie ten sam pattern bólu z Olą: miłość otwiera, zdrada dźga w to samo miejsce. **Słońce, złoty posąg i złote coś z poprzednich akcji to Ja**. Ja odpowiedziało Koli mocą i ciepłem. Brzuch przekazał: "daj sobie chwilę na zaklepienie rany" -- konkretnie dwa dni. Kola połączyła się ze słońcem i trzyma rękę na ranie przez dwa dni; potem odejdzie do słońca jako część jego woli. Zdanie do zapamiętania: **"możemy wszystko wyleczyć."**
 
 ## Historia sesji
 - **2026-02-03 sesja 1** -- Temat: blok przed dzwonieniem. Dotarliśmy do: pustka jako tarcza, zrównanie produktu z tożsamością, wzorzec porzucenia, "być albo nie być". Sesja przerwana -- otwarte pytanie: "czego nie chcesz poczuć?"
@@ -480,3 +482,16 @@
   - Nowa postać: **Koko** -- dziecko, którego głową jest gwiazda. Stoi około dwa kroki od Maćka, spokojne, bez ruchu, nie chce działać za szybko
   - Telefon przerwał proces. Po godzinie system był wybity i pojawiło się inne ograniczenie motywacji: **teraz nie pora na Koko**
   - **DO KONTYNUACJI:** wrócić do Koko bez popędzania; sprawdzić, czy dalej stoi dwa kroki od Maćka; badać zgodę, dystans i tempo przed przejściem do działania/telefonów
+- **2026-06-19 sesja 16** -- Temat: Koko/Kola, ucisk i kłujący punkt w brzuchu nad pępkiem, TRE i rana zdrad. Odkryliśmy:
+  - Miejsce w brzuchu okazało się ostrym niebieskim okruchem lodu/drzazgą, z tej samej substancji co Koko
+  - Gwiazda zaczęła wyciągać lód jak drzazgę; kluczowe było tempo i zgoda, bez wyrywania
+  - Koko/Kola = strażnik, drzazga = ból
+  - Drzazga to rana zadanych zdrad: szpikulec w brzuch, który pękł i został jako cierń
+  - Pojawiły się ruminacje o Oli i mediacji alimentacyjnej; temat krzywdy: z jej strony alimenty, z Maćka strony zabrane 1/2 domu o znacznej wartości
+  - Pojawił się strażak od telefonu/ucieczki uwagi: żartownik, który na pytanie "który to?" krzyknął "99", zaśmiał się i odleciał; numer roboczy raczej 22 albo 23, "99" to żart
+  - Mocne TRE ruszyło miejsce w brzuchu; Kola zrobiła się pomarańczowa, kolorowa, uśmiechnięta
+  - Oczy Oli w Koli to jednocześnie miłość do ośmiolatka i współczesna Ola -- rozpoznany ten sam pattern bólu: miłość otwiera, zdrada dźga w to samo miejsce
+  - Słońce, złoty posąg i złote coś z innych akcji to to samo: **Ja**
+  - Ja odpowiada Koli mocą, która się udziela, i ciepłem, które okrywa
+  - Brzuch poprosił o dwa dni na zaklepienie rany. Kola połączyła się ze słońcem i przez dwa dni trzyma rękę na ranie; potem odejdzie do słońca jako część jego woli
+  - Zdanie Maćka do zapamiętania: **"możemy wszystko wyleczyć"**
