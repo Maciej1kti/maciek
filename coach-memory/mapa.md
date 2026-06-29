@@ -54,7 +54,7 @@
 - **Lodowy smok-18** ma ten sam kształt i miejsce co statua -- samotność = zamrożona wersja Self. Gdyby się rozpuścił, byłby Maćkiem Maćkiem
 - **Ewolucja symbolu:** mały skompresowany Maciek (luty) → aligator wolny (luty/marzec) → złota statua (kwiecień)
 - **Koko (sesja 15, 2026-06-16):** po włożeniu złotej statuy w dzidziusia pojawił się komunikat **"nie popędzaj mnie."** Głębiej: dziecko z głową-gwiazdą z hipnozy 2020, spokojne, stojące dwa kroki od Maćka, bez ruchu. To nie odrzucenie kontaktu, tylko warunek tempa i dystansu.
-- **Kola i słońce (sesja 16, 2026-06-19):** Koko/Kola zostało rozpoznane jako strażnik, a ostry niebieski okruch lodu w brzuchu jako ból po zdradach. Słońce, złoty posąg i złote coś z innych akcji to ten sam rdzeń: **Ja**. Ja pomaga przez moc, która się udziela, i ciepło, które okrywa. Kola połączyła się ze słońcem i trzyma rękę na ranie przez dwa dni, potem ma odejść do słońca jako część jego woli.
+- **Kola i słońce (sesja 16, 2026-06-19):** Koko/Kola zostało rozpoznane jako strażnik, a ostry niebieski okruch lodu w brzuchu jako ból po zdradach. Słońce, złoty posąg i złote coś z innych akcji to ten sam rdzeń: **Ja**. Ja pomaga przez moc, która się udziela, i ciepło, które okrywa. Kola połączyła się ze słońcem i trzyma rękę na ranie przez dwa dni, potem ma odejść do słońca jako część jego woli. Follow-up 2026-06-29: dwa dni wystarczyły; "nóż w brzuchu" zszedł i Maciek w zasadzie o nim zapomniał.
 
 ## Sabotaż finansowy
 **Stan:** przepracowany -- korzeń znaleziony i uwolniony (2026-02-05)
@@ -494,6 +494,7 @@
   - Słońce, złoty posąg i złote coś z innych akcji to to samo: **Ja**
   - Ja odpowiada Koli mocą, która się udziela, i ciepłem, które okrywa
   - Brzuch poprosił o dwa dni na zaklepienie rany. Kola połączyła się ze słońcem i przez dwa dni trzyma rękę na ranie; potem odejdzie do słońca jako część jego woli
+  - Follow-up 2026-06-29: dwa dni faktycznie wystarczyły; "nóż w brzuchu" zszedł i Maciek w zasadzie o nim zapomniał
   - Zdanie Maćka do zapamiętania: **"możemy wszystko wyleczyć"**
 - **2026-06-29 sesja 17** -- Temat: "dalej to samo, nie mogę się do niczego zabrać, puste energetycznie, ale chyba nie to samo co wcześniej." Odkryliśmy:
   - Stan ma formę **czarnego pudła/bariery**, tak czarnej że nie da się jej zobaczyć, tylko wymacać
