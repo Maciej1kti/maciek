@@ -29,7 +29,7 @@
 - Jak rozpoznać działanie z godności vs działanie żeby udowodnić coś Oli?
 
 ## Relacja ze sobą
-**Stan:** aktywny -- **Self wyłonił się jako złota statua/słońce/Ja**; Koko/Kola jako strażnik rany po zdradach połączyła się ze słońcem, trwa dwudniowe zaklepienie rany
+**Stan:** aktywny -- **Self wyłonił się jako złota statua/słońce/Ja**; po Koko/Koli pojawiła się nowa czarna niewidzialna bariera w górnej klatce, mówiąca "nie" i chroniąca przed zrobieniem sobie krzywdy
 **Kluczowe wnioski:**
 - "Nie mam tej relacji ze sobą w ogóle" -- fundamentalne odkrycie (2026-02-05)
 - Motywacja działa tylko dla innych: zobowiązanie → upoważnienie → działanie. Dla siebie silnik nie odpala bo nie ma kogo rozczarować (2026-02-05)
@@ -131,7 +131,7 @@
 - Jak wygląda praca ze statuą bez strażnika (gdy nie daje dostępu do środka kuli)?
 
 ## Blok sprzedażowy -- kontakt z ludźmi w kontekście zarobkowym
-**Stan:** aktywny -- kolejna warstwa odsłonięta (2026-06-19, sesja 16: Koko/Kola to strażnik; cierń w brzuchu to ból po wielokrotnych zdradach; klucz: zgoda, nie wyrywać, dwa dni zaklepienia rany)
+**Stan:** aktywny -- kolejna warstwa odsłonięta (2026-06-29, sesja 17: czarna niewidzialna bariera/płot w górnej klatce mówi "nie", nie pozwala się dotknąć i chroni przed zrobieniem sobie krzywdy; klucz: uszanować brak zgody)
 **Kluczowe wnioski:**
 - Blok wygląda na nawykowy ("emocje wyczyszczone przez TRE") ale pod pustką siedzi rozpacz/żal/strach (2026-02-03)
 - "Być albo nie być" -- stawka zrównana z przetrwaniem, nie z biznesem (2026-02-03)
@@ -495,3 +495,12 @@
   - Ja odpowiada Koli mocą, która się udziela, i ciepłem, które okrywa
   - Brzuch poprosił o dwa dni na zaklepienie rany. Kola połączyła się ze słońcem i przez dwa dni trzyma rękę na ranie; potem odejdzie do słońca jako część jego woli
   - Zdanie Maćka do zapamiętania: **"możemy wszystko wyleczyć"**
+- **2026-06-29 sesja 17** -- Temat: "dalej to samo, nie mogę się do niczego zabrać, puste energetycznie, ale chyba nie to samo co wcześniej." Odkryliśmy:
+  - Stan ma formę **czarnego pudła/bariery**, tak czarnej że nie da się jej zobaczyć, tylko wymacać
+  - Lokalizacja: szeroko w górnej klatce; jakość: twarda, niebolesna, jak płot
+  - Gdy Maciek chce iść do przodu, zderza się z nią i zostaje zatrzymany
+  - Bariera wisi w powietrzu, praktycznie niewidoczna; gdy Maciek się cofa, ona pozostaje zawsze na wyciągnięcie ręki
+  - Mówi krótkie **"nie"**; przy próbie dotknięcia pojawia się głośny krzyk **"NIE"**
+  - Głos przypomina Olę, ale rozpoznanie: to raczej jakość **uporu**, podobna do uporu Oli, nie sama Ola
+  - Intencja: **"żebyś sobie krzywdy nie zrobił"**
+  - Po pytaniu o konkretną krzywdę bariera się schowała. Wniosek: dziś nie ma zgody na dalszą rozmowę; nie forsować, uszanować granicę
